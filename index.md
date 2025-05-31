@@ -14,7 +14,7 @@ JWLA 211 K | your.email@enmu.edu -->
 ---
 
 ## 📚 Research Interests
-- Data Management and Replacement Techniques for High-Performance Scratchpad Memory
+- Efficient Data Management Techniques for On-Chip Scratchpad Memory
 - Agile Methodologies in Education
 - Software Testing
 
