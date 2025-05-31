@@ -22,9 +22,8 @@ JWLA 211 K | your.email@enmu.edu -->
 ---
 
 ## 🛠️ Projects
-- [LMStore](https://github.com/essa-imhmed/LMStore)
-- [Cache Simulator](https://github.com/essa-imhmed/Cache-Simulator)
-- [Mobile App Development Course](https://github.com/essa-imhmed/Mobile-App-Development)
+- [Local Memory Store (LMStore)--- a novel Scratchpad memory design](https://github.com/essa-imhmed/LMStore)
+- [CodeInspector---an automated code assessment](https://github.com/essa-imhmed/Cache-Simulator)
 
 ---
 
