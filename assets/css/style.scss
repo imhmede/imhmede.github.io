@@ -2,3 +2,42 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+/* Custom nav menu styles */
+.nav-menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  margin: 20px 0;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.nav-menu li {
+  margin: 0 25px;
+}
+
+.nav-menu a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 600;
+  font-size: 1rem;
+  padding: 8px 0;
+  border-bottom: 3px solid transparent;
+  transition: border-color 0.3s ease, color 0.3s ease;
+}
+
+.nav-menu a:hover,
+.nav-menu a:focus {
+  color: #0056b3;
+  border-bottom: 3px solid #0056b3;
+  outline: none;
+}
+
+.nav-menu a.active {
+  color: #0056b3;
+  border-bottom: 3px solid #0056b3;
+  pointer-events: none;
+}
