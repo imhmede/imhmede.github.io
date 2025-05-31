@@ -4,7 +4,7 @@ title: "Ph.D., New Mexico State University (2022)"
 ---
 
 <!-- # Dr. Essa Imhmed -->
-Essa Imhmed is a tenure-track assistant professor of Computer Science at Eastern New Mexico University. His research interests include memory system performance and fostering software engineering practices in computer science education. He leads the Software Engineering and Performance Optimization Lab, focusing on developing data management and replacement techniques for a novel Scratchpad memory design. Dr. Imhmed and his group also investigate teaching methods and assessment techniques aimed at enhancing student coding experiences and improving the efficiency of code evaluation.
+Essa Imhmed is a tenure-track assistant professor of Computer Science at Eastern New Mexico University. His research interests include memory system performance and fostering software engineering practices in computer science education. He leads the Software Engineering and Performance Optimization Lab, focusing on developing efficient data management techniques for a novel Scratchpad memory design. Dr. Imhmed and his group also investigate teaching methods and assessment techniques aimed at enhancing student coding experiences and improving the efficiency of code evaluation.
 
 ---
 
