@@ -9,9 +9,9 @@ Essa Imhmed is a tenure-track assistant professor of Computer Science at Eastern
 ---
 
 ## Education
-- An interdisciplinary Ph.D. in Computer Science and Electrical Engineering from New Mexico State University in 2022
-- A M.S. degree in Computer Science from New Mexico State University in 2020
-- A M.S. degree in Intelligent Systems from Universiti Utara Malaysia in 2007.
+- An interdisciplinary Ph.D. in Computer Science and Electrical Engineering from New Mexico State University, 2022
+- M.S. in Computer Science from New Mexico State University, 2020
+- M.S. in Intelligent Systems from Universiti Utara Malaysia, 2007
 <!-- Assistant Professor of Computer Science  
 Eastern New Mexico University  
 JWLA 211 K | your.email@enmu.edu -->
