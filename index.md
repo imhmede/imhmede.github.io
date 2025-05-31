@@ -36,3 +36,14 @@ JWLA 211 K | your.email@enmu.edu -->
 - Email: essa.imhmed@enmu.edu
 - [LinkedIn](https://www.linkedin.com/in/yourname)
 - [Google Scholar](https://scholar.google.com/citations?user=xxxx)
+
+---
+
+<div style="text-align: center; margin-top: 30px;">
+
+  [Home](./index.html) |
+  [Publications](./publication.html) |
+  [Projects](./projects.html) |
+  [Teaching](./teaching.html)
+
+</div>
