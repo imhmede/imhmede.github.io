@@ -1,49 +1,123 @@
 ---
 layout: default
-title: "Ph.D., New Mexico State University (2022)"
 ---
 
-<!-- # Dr. Essa Imhmed -->
-Essa Imhmed is a tenure-track assistant professor of Computer Science at Eastern New Mexico University. His research interests include memory system performance and fostering software engineering practices in computer science education. He leads the Software Engineering and Performance Optimization Lab, focusing on developing efficient data management techniques for a novel Scratchpad memory design. Dr. Imhmed and his group also investigate teaching methods and assessment techniques aimed at enhancing student coding experiences and improving the efficiency of code evaluation.
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
----
+[Link to another page](./another-page.html).
 
-## Education
-- An interdisciplinary Ph.D. in Computer Science and Electrical Engineering from New Mexico State University, 2022
-- M.S. in Computer Science from New Mexico State University, 2020
-- M.S. in Intelligent Systems from Universiti Utara Malaysia, 2007
-<!-- Assistant Professor of Computer Science  
-Eastern New Mexico University  
-JWLA 211 K | your.email@enmu.edu -->
+There should be whitespace between paragraphs.
 
----
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-## 📚 Research Interests
-- Efficient Data Management for On-Chip Scratchpad Memory
-- Agile Methods in Education
-- Software Testing
+# Header 1
 
----
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## 🛠️ Projects
-- [Local Memory Store (LMStore)---a novel Scratchpad memory design for  High-Performance computing](https://github.com/essa-imhmed/LMStore)
-- [CodeInspector---an automated code assessment](https://github.com/essa-imhmed/Cache-Simulator)
--[Link to another page](./publication.html).
+## Header 2
 
----
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
 
-## 📫 Contact
-- Email: essa.imhmed@enmu.edu
-- [LinkedIn](https://www.linkedin.com/in/yourname)
-- [Google Scholar](https://scholar.google.com/citations?user=xxxx)
+### Header 3
 
----
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
 
-<div style="text-align: center; margin-top: 30px;">
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
 
-  [Home](./index.html) |
-  [Publications](./publication.html) |
-  [Projects](./projects.html) |
-  [Teaching](./teaching.html)
+#### Header 4
 
-</div>
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+###### Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
+
+* * *
+
+### Here is an unordered list:
+
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
+
+### And an ordered list:
+
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+
+### Definition lists can be used with HTML syntax.
+
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
+
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
+
+```
+The final element.
+```
