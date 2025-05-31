@@ -46,6 +46,8 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %} -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
       </header>
       <section>
 
@@ -53,13 +55,18 @@
 
       </section>
       <footer>
-        {% if site.show_downloads %}
-          <ul class="downloads">
-            <li><a href="https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID" target="_blank" rel="noopener">Google Scholar</a></li>
-            <li><a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank" rel="noopener">LinkedIn</a></li>
-            <li><a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank" rel="noopener">GitHub</a></li>
-          </ul>
-        {% endif %}
+        <ul class="downloads">
+          <li><a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank" rel="noopener">
+            <i class="fa-brands fa-github"></i> GitHub
+          </a></li>
+          <li><a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank" rel="noopener">
+            <i class="fa-brands fa-linkedin"></i> LinkedIn
+          </a></li>
+          <li><a href="https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID" target="_blank" rel="noopener">
+            <i class="fa-solid fa-graduation-cap"></i> Google Scholar
+          </a></li>
+        </ul>
+
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
