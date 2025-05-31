@@ -14,10 +14,9 @@ JWLA 211 K | your.email@enmu.edu -->
 ---
 
 ## 📚 Research Interests
-- Memory Systems and Local Memory Store (LMStore)
-- Cache Replacement Algorithms
+- Data Management and Replacement Techniques for High-Performance Scratchpad Memory
 - Agile Methodologies in Education
-- Mobile Application Development
+- Software Testing
 
 ---
 
