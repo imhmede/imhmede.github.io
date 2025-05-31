@@ -3,41 +3,43 @@
 
 @import "jekyll-theme-minimal";
 
-/* Custom nav menu styles */
-.nav-menu {
+.menu {
   list-style: none;
-  display: flex;
-  justify-content: center;
   padding: 0;
   margin: 20px 0;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
+  display: flex;
+  flex-direction: column;   /* Stack items vertically */
+  align-items: flex-start;  /* Align left */
+  gap: 20px;                /* Space between items */
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  max-width: 200px;         /* Optional: limit menu width */
 }
 
-.nav-menu li {
-  margin: 0 25px;
+.menu li {
+  /* no extra styling needed */
 }
 
-.nav-menu a {
+.menu a {
   text-decoration: none;
   color: #333;
   font-weight: 600;
-  font-size: 1rem;
-  padding: 8px 0;
-  border-bottom: 3px solid transparent;
-  transition: border-color 0.3s ease, color 0.3s ease;
+  font-size: 1.1rem;
+  display: flex;
+  align-items: center;
+  gap: 12px;               /* space between icon and text */
+  transition: color 0.3s ease;
 }
 
-.nav-menu a:hover,
-.nav-menu a:focus {
+.menu a:hover,
+.menu a:focus {
   color: #0056b3;
-  border-bottom: 3px solid #0056b3;
   outline: none;
 }
 
-.nav-menu a.active {
-  color: #0056b3;
-  border-bottom: 3px solid #0056b3;
-  pointer-events: none;
+.menu .icon svg {
+  width: 28px;
+  height: 28px;
+  stroke-width: 2.5;
+  stroke: currentColor;
+  flex-shrink: 0;
 }

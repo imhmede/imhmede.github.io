@@ -31,12 +31,69 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
-        <ul class="nav-menu">
+        <ul class="menu">
+          <li>
+            <a href="{{ '/' | relative_url }}">
+              <span class="icon" aria-hidden="true">
+                <!-- Home icon -->
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                  stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M3 9l9-7 9 7"></path>
+                  <path d="M9 22V12H15V22"></path>
+                </svg>
+              </span>
+              Home
+            </a>
+          </li>
+          <li>
+            <a href="{{ '/publication.html' | relative_url }}">
+              <span class="icon" aria-hidden="true">
+                <!-- Book icon -->
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                  stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+                  <path d="M4 4.5A2.5 2.5 0 0 1 6.5 7H20V20H6.5A2.5 2.5 0 0 1 4 17.5z"></path>
+                </svg>
+              </span>
+              Publications
+            </a>
+          </li>
+          <li>
+            <a href="{{ '/projects.html' | relative_url }}">
+              <span class="icon" aria-hidden="true">
+                <!-- Folder icon -->
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                  stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
+                </svg>
+              </span>
+              Projects
+            </a>
+          </li>
+          <li>
+            <a href="{{ '/teaching.html' | relative_url }}">
+              <span class="icon" aria-hidden="true">
+                <!-- Book-open icon -->
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                  stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M2 7v14a2 2 0 0 0 2 2h7"></path>
+                  <path d="M22 7v14a2 2 0 0 1-2 2h-7"></path>
+                  <path d="M2 7h20"></path>
+                  <path d="M12 7v14"></path>
+                </svg>
+              </span>
+              Teaching
+            </a>
+          </li>
+        </ul>
+
+        <!-- <ul class="menu">
           <li><a href="{{ '/' | relative_url }}">Home</a></li>
           <li><a href="{{ '/publication.html' | relative_url }}">Publications</a></li>
           <li><a href="{{ '/projects.html' | relative_url }}">Projects</a></li>
           <li><a href="{{ '/teaching.html' | relative_url }}">Teaching</a></li>
-        </ul>
+        </ul> -->
+
 
         <!-- {% if site.show_downloads %}
         <ul class="downloads">
