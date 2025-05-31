@@ -28,6 +28,7 @@ JWLA 211 K | your.email@enmu.edu -->
 ## 🛠️ Projects
 - [Local Memory Store (LMStore)---a novel Scratchpad memory design for  High-Performance computing](https://github.com/essa-imhmed/LMStore)
 - [CodeInspector---an automated code assessment](https://github.com/essa-imhmed/Cache-Simulator)
+-[Link to another page](./publication.html).
 
 ---
 
