@@ -27,9 +27,9 @@ Tel 575-562-2090 | Fax 575-562-2555
 ## Recent News
 
 ### May 2025
-> **Grant Proposel:** Investigating NLP-Based Clustering Techniques for Formative Feedback on Code Errors. Issued by the ENMU FRID Grant Program. Funding period: July 2025 – May 2026. Principal Investigators: Essa Imhmed and Edgar Eduardo Ceh Varela.
+> **Grant Proposel:** Investigating NLP-Based Clustering Techniques for Formative Feedback on Code Errors. Principal Investigators: Essa Imhmed and Edgar Eduardo Ceh Varela.
 >
-> Status: Awarded.
+> Status: Awarded by the ENMU FRID Grant Program. Funding period: July 2025 – May 2026.
 
 ---
 
@@ -46,14 +46,14 @@ Tel 575-562-2090 | Fax 575-562-2555
 > Nashville, Tennessee, USA.
 
 ### May 2024
-> **Grant Proposel:** Enhancing Student Learning and Grading Efficiency through Automated Code Assessment. Issued by the ENMU FRID Grant Program. Funding period: July 2024 – May 2025. Principal Investigators: Essa Imhmed.
+> **Grant Proposel:** Enhancing Student Learning and Grading Efficiency through Automated Code Assessment. Principal Investigators: Essa Imhmed.
 >
-> Status: Awarded.
+> Status: Awarded by the ENMU FRID Grant Program. Funding period: July 2025 – May 2026.
 
 ### May 2023
-> **Grant Proposel:** Conveying the Importance of Coding Quality Through Effective Teaching and Automated Assessment of Coding Standards. Issued by the ENMU FRID Grant Program. Funding period: July 2023 – May 2024. Principal Investigators: Essa Imhmed.
+> **Grant Proposel:** Conveying the Importance of Coding Quality Through Effective Teaching and Automated Assessment of Coding Standards. Principal Investigators: Essa Imhmed.
 >
-> Status: Awarded.
+> Status: Awarded by the ENMU FRID Grant Program. Funding period: July 2025 – May 2026.
 
 <!-- > This is a blockquote following a header.
 >
