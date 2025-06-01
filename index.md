@@ -10,6 +10,10 @@ I am a tenure-track Assistant Professor of Computer Science at Eastern New Mexic
 ## Recent News
 
 ### May 2025
+> **Grant Awarded:** Investigating NLP-Based Clustering Techniques for Formative Feedback on Code Errors. Issued by the ENMU FRID Grant Program. Funding period: July 2025 – May 2026. Principal Investigators: Essa Imhmed and Edgar Eduardo Ceh Varela.
+
+---
+
 > **Publication:** Essa Imhmed, Edgar Eduardo Ceh Varela, Ludwig Scherer, Ivan Sanjaya, George Candal. **CodeInspector: Automated LLM-Supported CS1 Level Code Assessment.**
 >
 > Status: Accepted for Presentation at 2025 IEEE Frontiers in Education (FIE) Conference.
