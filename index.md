@@ -9,6 +9,17 @@ I am a tenure-track Assistant Professor of Computer Science at Eastern New Mexic
 
 ## Recent News
 
+### May 2025
+> Enhancing Student Learning through Automated Feedback in Coding Assignments
+> Authors: Essa Imhmed, John Doe, Jane Smith
+> Conference: 2025 IEEE Frontiers in Education (FIE) Conference
+> Location: Atlanta, GA, USA
+> Status: Accepted for Presentation
+
+<!-- > This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -127,4 +138,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
