@@ -2,10 +2,12 @@
 layout: default
 ---
 
+I’m a tenure-track Assistant Professor of Computer Science at Eastern New Mexico University, with M.S. and Ph.D. degrees from New Mexico State University. My research focuses on scratchpad memory design and Agile methods in education. I lead the Software Engineering and Performance Optimization (_SEPO_) Lab, where we explore innovative data management techniques for scratchpad memories and teaching strategies to improve computer science education.
+
 <!-- ## About Me
 I am a tenure-track Assistant Professor of Computer Science at Eastern New Mexico University, holding M.S. and Ph.D. degrees from New Mexico State University. I lead the Software Engineering and Performance Optimization (_SEPO_) Lab, where we explore data management and replacement schemes for a novel scratchpad memory design. My group and I also investigate the application of Agile methods in education, as well as teaching strategies and assessment techniques to enhance students’ coding experiences. This project aims to bridge the gap between theory and practice, preparing students for success in the evolving field of computer science. -->
 
-I am a tenure-track Assistant Professor of Computer Science at Eastern New Mexico University, holding M.S. and Ph.D. degrees from New Mexico State University. I lead the Software Engineering and Performance Optimization (SEPO) Lab, where we explore innovative data management and replacement schemes for a novel high-performance scratchpad memory design. We also investigate the application of Agile methodologies in education, as well as teaching strategies and assessment techniques to improve students' software development skills. Through this work, we aim to bridge the gap between theory and practice, preparing students for success in the evolving field of computer science.
+<!-- I am a tenure-track Assistant Professor of Computer Science at Eastern New Mexico University, holding M.S. and Ph.D. degrees from New Mexico State University. I lead the Software Engineering and Performance Optimization (SEPO) Lab, where we explore innovative data management and replacement schemes for a novel high-performance scratchpad memory design. We also investigate the application of Agile methodologies in education, as well as teaching strategies and assessment techniques to improve students' software development skills. Through this work, we aim to bridge the gap between theory and practice, preparing students for success in the evolving field of computer science. -->
 
 📫 **Contact | Mailing address**
 ```js
