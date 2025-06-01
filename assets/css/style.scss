@@ -3,66 +3,75 @@
 
 @import "jekyll-theme-minimal";
 
-/* Base styles for the menu */
-.menu {
+/* Menu container */
+ul.menu {
   list-style: none;
   padding: 0;
   margin: 0;
-  width: 200px; /* Adjust width as needed */
+  width: 200px; /* adjust width as needed */
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 1rem;
 }
 
-/* Style each menu item link */
-.menu li a {
+/* Menu items */
+ul.menu li {
+  margin-bottom: 1rem;
+}
+
+/* Menu links */
+ul.menu li a {
   display: flex;
   align-items: center;
-  gap: 8px;             /* space between icon and text */
-  font-family: inherit; /* inherit from site theme */
-  font-size: inherit;   /* inherit font size */
-  color: inherit;       /* inherit text color */
-  padding: 8px 12px;
   text-decoration: none;
-  border-radius: 4px;
-  transition: background-color 0.3s ease;
+  color: #222; /* text color */
+  padding: 0.5rem 0;
+  transition: color 0.3s ease;
 }
 
-/* Hover background */
-.menu li a:hover,
-.menu li a:focus {
-  background-color: #e6f0ff;
-  outline: none;
+ul.menu li a:hover,
+ul.menu li a:focus {
+  color: #0056b3; /* hover/focus text color */
 }
 
-/* Icon base style */
-.menu .icon svg {
-  width: 18px;    /* icon size */
-  height: 18px;
-  fill: currentColor; /* use current text color by default */
-  stroke: none;
-  flex-shrink: 0; /* prevent shrinking */
+/* Icon container */
+ul.menu li a .icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 0.75rem;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+  overflow: visible;
 }
 
-/* Override icon colors per menu item */
-.menu .icon.home-icon svg {
-  fill: #0056b3; /* blue */
+/* SVG icon styling */
+ul.menu li a .icon svg {
+  width: 24px;
+  height: 24px;
+  overflow: visible;
+  display: block;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: none; /* default no fill */
+  stroke: currentColor; /* icon inherits text color */
 }
 
-.menu .icon.book-icon svg {
-  fill: #b35900; /* dark orange */
+/* Individual icon colors — override via classes */
+ul.menu li.home a {
+  color: #1a73e8; /* Blue */
 }
 
-.menu .icon.folder-icon svg {
-  fill: #2a7f62; /* greenish */
+ul.menu li.publications a {
+  color: #ea4335; /* Red */
 }
 
-.menu .icon.teaching-icon svg {
-  fill: #8b0048; /* dark magenta */
+ul.menu li.projects a {
+  color: #fbbc05; /* Yellow */
 }
 
-// .menu .icon svg {
-//   width: 16px;
-//   height: 16px;
-//   fill: #0056b3;          /* fill color blue */
-//   stroke: none;           /* remove stroke so fill shows */
-//   flex-shrink: 0;
-// }
+ul.menu li.teaching a {
+  color: #34a853; /* Green */
+}
 
