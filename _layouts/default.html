@@ -36,21 +36,11 @@
 
         <ul class="menu">
           <li><a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a></li>
-          <li><a href="{{ '/publication.html' | relative_url }}" class="{% if page.url == '/publication.html' %}active{% endif %}">Publications</a></li>
-          <li><a href="{{ '/projects.html' | relative_url }}" class="{% if page.url == '/projects.html' %}active{% endif %}">Projects</a></li>
-          <li><a href="{{ '/teaching.html' | relative_url }}" class="{% if page.url == '/teaching.html' %}active{% endif %}">Teaching</a></li>
+          <li><a href="{{ '/publication.html' | relative_url }}" class="{% if page.url == '/pages/publication.html' %}active{% endif %}">Publications</a></li>
+          <li><a href="{{ '/projects.html' | relative_url }}" class="{% if page.url == '/pages/projects.html' %}active{% endif %}">Projects</a></li>
+          <li><a href="{{ '/teaching.html' | relative_url }}" class="{% if page.url == '/pages/teaching.html' %}active{% endif %}">Teaching</a></li>
         </ul>
 
-
-
-        <!-- {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
-        {% endif %} -->
-        <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"> -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
 
