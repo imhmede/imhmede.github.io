@@ -10,7 +10,7 @@ ENMU Station 18
 Mathematical Sciences Dept
 1500 S Ave K, Portales, NM 88130
 ---
-email: essa (dot) imhmed (at) enmu (dot) edu
+email: essa dot imhmed at enmu dot edu
 Tel 575-562-2090 | Fax 575-562-2555
 ```
 
