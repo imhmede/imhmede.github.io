@@ -75,7 +75,7 @@ Sciences in Colleges - South Central Conference.
 > Status: Accepted for Presentation at the 2023 IEEE International Computer Software and Applications Conference (COMPSAC).
 > Torino, Italy.
 
-### August 2023
+### August 2022
 > **Publication:** Essa Imhmed, Jonathan Cook and Abdel-Hameed Badawy. **Evaluation of a Novel Scratchpad Memory Through Compiler Supported Simulation.**
 >
 > Status: Accepted for Presentation at the 2022 IEEE High Performance Extreme Computing Conference.
