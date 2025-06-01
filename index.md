@@ -29,11 +29,11 @@ Tel 575-562-2090 | Fax 575-562-2555
 ## Recent News
 
 ### May 2025
-> **Grant Proposel:** Expanding Research Awareness in Artificial Intelligence for Mathematical Sciences Undergraduate Students at ENMU. Co-Principal Investigators: Essa Imhmed.
+<!-- > **Grant Proposel:** Expanding Research Awareness in Artificial Intelligence for Mathematical Sciences Undergraduate Students at ENMU. Co-Principal Investigators: Essa Imhmed.
 >
 > Status: Awarded by the National Science Foundation EPSCoR Program. Funding period: June 2025 – May 2026.
 
----
+--- -->
 
 > **Grant Proposel:** Investigating NLP-Based Clustering Techniques for Formative Feedback on Code Errors. Principal Investigators: Essa Imhmed and Edgar Eduardo Ceh Varela.
 >
