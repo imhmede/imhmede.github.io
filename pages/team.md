@@ -5,12 +5,14 @@ title: Team
 
 ## SEPO Lab Team
 
-### SEPO Lab current members:
+---
+
+### Current Lab Members:
 *   Ludwig Scherer, CS Undergraduate.
 *   George Candal, CS Undergraduate.
 *   Ivan Sanjaya, CS Undergraduate.
 
-### SEPO Lab past members:
+### Past Lab Members:
 *   Ashtin Hall, CS Undergraduate.
 *   Brandon Figueroa Ugalde, CS Undergraduate.
 *   Scott Kilgore, Math Undergraduate.
