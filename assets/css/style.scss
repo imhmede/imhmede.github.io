@@ -3,40 +3,66 @@
 
 @import "jekyll-theme-minimal";
 
+/* Base styles for the menu */
 .menu {
   list-style: none;
   padding: 0;
-  margin: 20px 0;
-  max-width: 220px;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-  font-size: 16px;
+  margin: 0;
+  width: 200px; /* Adjust width as needed */
 }
 
-.menu li {
-  margin-bottom: 12px;
-}
-
-.menu a {
+/* Style each menu item link */
+.menu li a {
   display: flex;
   align-items: center;
+  gap: 8px;             /* space between icon and text */
+  font-family: inherit; /* inherit from site theme */
+  font-size: inherit;   /* inherit font size */
+  color: inherit;       /* inherit text color */
+  padding: 8px 12px;
   text-decoration: none;
-  color: #333;
-  font-weight: 600;
-  gap: 10px;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
 }
 
-.menu a:hover,
-.menu a:focus {
-  color: #0056b3;
+/* Hover background */
+.menu li a:hover,
+.menu li a:focus {
+  background-color: #e6f0ff;
   outline: none;
 }
 
+/* Icon base style */
 .menu .icon svg {
-  width: 24px;
-  height: 24px;
-  fill: #0056b3;          /* fill color blue */
-  stroke: none;           /* remove stroke so fill shows */
-  flex-shrink: 0;
+  width: 18px;    /* icon size */
+  height: 18px;
+  fill: currentColor; /* use current text color by default */
+  stroke: none;
+  flex-shrink: 0; /* prevent shrinking */
 }
+
+/* Override icon colors per menu item */
+.menu .icon.home-icon svg {
+  fill: #0056b3; /* blue */
+}
+
+.menu .icon.book-icon svg {
+  fill: #b35900; /* dark orange */
+}
+
+.menu .icon.folder-icon svg {
+  fill: #2a7f62; /* greenish */
+}
+
+.menu .icon.teaching-icon svg {
+  fill: #8b0048; /* dark magenta */
+}
+
+// .menu .icon svg {
+//   width: 16px;
+//   height: 16px;
+//   fill: #0056b3;          /* fill color blue */
+//   stroke: none;           /* remove stroke so fill shows */
+//   flex-shrink: 0;
+// }
 
