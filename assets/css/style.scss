@@ -103,3 +103,32 @@ ul.icon-menu a.scholar {
 ul.icon-menu a.researchgate {
   color: #00CCBB;
 }
+
+
+/* General Menu Styling */
+.menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  gap: 2rem; /* Spacing between items */
+}
+
+.menu a {
+  text-decoration: none;
+  font-size: 1.5rem; /* Matches h2 size */
+  font-family: inherit; /* Use site font */
+  color: inherit; /* Use text color */
+  font-weight: normal;
+  transition: color 0.3s, font-weight 0.3s;
+}
+
+.menu a:hover {
+  color: #0056b3; /* Change color on hover */
+}
+
+.menu a.active {
+  font-weight: bold;
+  color: #0056b3; /* Active page color */
+}
