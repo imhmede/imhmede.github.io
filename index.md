@@ -10,7 +10,9 @@ I am a tenure-track Assistant Professor of Computer Science at Eastern New Mexic
 ## Recent News
 
 ### May 2025
-> **Grant Awarded:** Investigating NLP-Based Clustering Techniques for Formative Feedback on Code Errors. Issued by the ENMU FRID Grant Program. Funding period: July 2025 – May 2026. Principal Investigators: Essa Imhmed and Edgar Eduardo Ceh Varela.
+> **Grant Proposel:** Investigating NLP-Based Clustering Techniques for Formative Feedback on Code Errors. Issued by the ENMU FRID Grant Program. Funding period: July 2025 – May 2026. Principal Investigators: Essa Imhmed and Edgar Eduardo Ceh Varela.
+>
+> Status: Awarded.
 
 ---
 
@@ -27,10 +29,14 @@ I am a tenure-track Assistant Professor of Computer Science at Eastern New Mexic
 > Nashville, Tennessee, USA.
 
 ### May 2024
-> **Grant Awarded:** Enhancing Student Learning and Grading Efficiency through Automated Code Assessment. Issued by the ENMU FRID Grant Program. Funding period: July 2024 – May 2025. Principal Investigators: Essa Imhmed.
+> **Grant Proposel:** Enhancing Student Learning and Grading Efficiency through Automated Code Assessment. Issued by the ENMU FRID Grant Program. Funding period: July 2024 – May 2025. Principal Investigators: Essa Imhmed.
+>
+> Status: Awarded.
 
 ### May 2023
-> **Grant Awarded:** Conveying the Importance of Coding Quality Through Effective Teaching and Automated Assessment of Coding Standards. Issued by the ENMU FRID Grant Program. Funding period: July 2023 – May 2024. Principal Investigators: Essa Imhmed.
+> **Grant Proposel:** Conveying the Importance of Coding Quality Through Effective Teaching and Automated Assessment of Coding Standards. Issued by the ENMU FRID Grant Program. Funding period: July 2023 – May 2024. Principal Investigators: Essa Imhmed.
+>
+> Status: Awarded.
 
 <!-- > This is a blockquote following a header.
 >
