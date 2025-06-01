@@ -7,15 +7,22 @@ I am a tenure-track Assistant Professor of Computer Science at Eastern New Mexic
 
 I am a tenure-track Assistant Professor of Computer Science at Eastern New Mexico University, holding M.S. and Ph.D. degrees from New Mexico State University. I lead the Software Engineering and Performance Optimization (SEPO) Lab, where we explore innovative data management and replacement schemes for a novel high-performance scratchpad memory design. We also investigate the application of Agile methodologies in education, as well as teaching strategies and assessment techniques to improve students' software development skills. Through this work, we aim to bridge the gap between theory and practice, preparing students for success in the evolving field of computer science.
 
+## 📫 Contact | Mailing address
+ENMU Station 18
+Mathematical Sciences Dept | Eastern New Mexico University
+1500 S Ave K, Portales, NM 88130
+Tel 575-562-2090 | Fax 575-562-2555
+
+
 <!-- | Contact Info                        | Mailing address    |
 |:------------------------------------|:-------------------|
 | Mathematical Sciences Dept 18       | ENMU Station 18    |
 | Eastern New Mexico University       | 1500 S Ave K       |
 | Tel 575-562-2090 / Fax 575-562-2555 | Portales, NM 88130 | -->
 
-| Contact Info                        | Mailing Address    |
+<!-- | Contact Info                        | Mailing Address    |
 |:------------------------------------|:-------------------|
-| Mathematical Sciences Dept 18  <br> Eastern New Mexico University  <br> Tel 575-562-2090 / Fax 575-562-2555 | ENMU Station 18  <br> 1500 S Ave K  <br> Portales, NM 88130 |
+| Mathematical Sciences Dept 18  <br> Eastern New Mexico University  <br> Tel 575-562-2090 / Fax 575-562-2555 | ENMU Station 18  <br> 1500 S Ave K  <br> Portales, NM 88130 | -->
 
 ---
 
