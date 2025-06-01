@@ -11,10 +11,13 @@ I am a tenure-track Assistant Professor of Computer Science at Eastern New Mexic
 
 ### May 2025
 > **Enhancing Student Learning through Automated Feedback in Coding Assignments**
-
+>
 > Authors: Essa Imhmed, John Doe, Jane Smith
+>
 > Conference: 2025 IEEE Frontiers in Education (FIE) Conference
+>
 > Location: Atlanta, GA, USA
+>
 > Status: Accepted for Presentation
 
 <!-- > This is a blockquote following a header.
