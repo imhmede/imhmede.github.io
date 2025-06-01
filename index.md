@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About Me
-I’m a tenure-track Assistant Professor of Computer Science at Eastern New Mexico University, holding M.S. and Ph.D. degrees from New Mexico State University. I lead the Software Engineering and Performance Optimization Lab, where we explore data management and replacement techniques for a novel Scratchpad memory design. My research also investigates the application of agile methods in education, as well as teaching and assessment techniques aimed at enhancing students’ coding experiences. My goal is to bridge the gap between theory and practice, preparing students for success in the evolving field of computer science.
+I’m a tenure-track Assistant Professor of Computer Science at Eastern New Mexico University, holding M.S. and Ph.D. degrees from New Mexico State University. I lead the Software Engineering and Performance Optimization Lab, where we explore data management and replacement techniques for a novel Scratchpad memory design. My research also investigates the application of Agile software methods in education, as well as teaching and assessment techniques aimed at enhancing students’ coding experiences. My goal is to bridge the gap between theory and practice, preparing students for success in the evolving field of computer science.
 
 ## Recent News
 
