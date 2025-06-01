@@ -26,6 +26,12 @@ I am a tenure-track Assistant Professor of Computer Science at Eastern New Mexic
 > Status: Accepted for Presentation at 2025 IEEE Frontiers in Education (FIE) Conference.
 > Nashville, Tennessee, USA.
 
+### May 2024
+> **Grant Awarded:** Enhancing Student Learning and Grading Efficiency through Automated Code Assessment. Issued by the ENMU FRID Grant Program. Funding period: July 2024 – May 2025. Principal Investigators: Essa Imhmed.
+
+### May 2023
+> **Grant Awarded:** Conveying the Importance of Coding Quality Through Effective Teaching and Automated Assessment of Coding Standards. Issued by the ENMU FRID Grant Program. Funding period: July 2023 – May 2024. Principal Investigators: Essa Imhmed.
+
 <!-- > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
