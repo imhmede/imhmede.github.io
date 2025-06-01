@@ -9,11 +9,15 @@ I am a tenure-track Assistant Professor of Computer Science at Eastern New Mexic
 
 ---
 
-| Contact Info                        | Mailing address    |
+<!-- | Contact Info                        | Mailing address    |
 |:------------------------------------|:-------------------|
 | Mathematical Sciences Dept 18       | ENMU Station 18    |
 | Eastern New Mexico University       | 1500 S Ave K       |
-| Tel 575-562-2090 / Fax 575-562-2555 | Portales, NM 88130 |
+| Tel 575-562-2090 / Fax 575-562-2555 | Portales, NM 88130 | -->
+
+| Contact Info                        | Mailing Address    |
+|:------------------------------------|:-------------------|
+| Mathematical Sciences Dept 18  <br> Eastern New Mexico University  <br> Tel 575-562-2090 / Fax 575-562-2555 | ENMU Station 18  <br> 1500 S Ave K  <br> Portales, NM 88130 |
 
 ---
 
