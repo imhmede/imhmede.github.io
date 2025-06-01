@@ -64,8 +64,7 @@ ul.menu li.home a {
 }
 
 ul.menu li.publications a {
-    color: black;
-//   color: #ea4335; /* Red */
+  color: #ea4335; /* Red */
 }
 
 ul.menu li.projects a {
@@ -76,3 +75,31 @@ ul.menu li.teaching a {
   color: #34a853; /* Green */
 }
 
+
+ul.icon-menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  align-items: center;
+}
+
+ul.icon-menu a {
+  text-decoration: none;
+  font-size: 2rem;
+  color: inherit;
+}
+
+ul.icon-menu a.linkedin {
+  color: #0A66C2;
+}
+
+ul.icon-menu a.scholar {
+  color: #4285F4;
+}
+
+ul.icon-menu a.researchgate {
+  color: #00CCBB;
+}
