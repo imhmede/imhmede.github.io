@@ -34,12 +34,21 @@
 
 
 
-        <ul class="menu">
-          <li><a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a></li>
-          <li><a href="{{ '/publication.html' | relative_url }}" class="{% if page.url == '/pages/publication.html' %}active{% endif %}">Publications</a></li>
-          <li><a href="{{ '/projects.html' | relative_url }}" class="{% if page.url == '/pages/projects.html' %}active{% endif %}">Projects</a></li>
-          <li><a href="{{ '/teaching.html' | relative_url }}" class="{% if page.url == '/pages/teaching.html' %}active{% endif %}">Teaching</a></li>
+       <ul class="menu">
+          <li>
+            <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a>
+          </li>
+          <li>
+            <a href="{{ '/pages/publication.html' | relative_url }}" class="{% if page.url == '/pages/publication.html' %}active{% endif %}">Publications</a>
+          </li>
+          <li>
+            <a href="{{ '/pages/projects.html' | relative_url }}" class="{% if page.url == '/pages/projects.html' %}active{% endif %}">Projects</a>
+          </li>
+          <li>
+            <a href="{{ '/pages/teaching.html' | relative_url }}" class="{% if page.url == '/pages/teaching.html' %}active{% endif %}">Teaching</a>
+          </li>
         </ul>
+
 
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
