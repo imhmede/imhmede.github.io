@@ -103,33 +103,3 @@ ul.icon-menu a.scholar {
 ul.icon-menu a.researchgate {
   color: #00CCBB;
 }
-
-
-/* Vertical Menu Styling */
-.menu {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: flex;
-  flex-direction: column; /* Make it vertical */
-  gap: 1rem; /* Spacing between items */
-  align-items: flex-start; /* Align to the left */
-}
-
-.menu a {
-  text-decoration: none;
-  font-size: 1.5rem; /* Matches H2 */
-  font-family: inherit; /* Inherit font */
-  color: inherit;
-  font-weight: normal;
-  transition: color 0.3s, font-weight 0.3s;
-}
-
-.menu a:hover {
-  color: #0056b3; /* Hover color */
-}
-
-.menu a.active {
-  font-weight: bold;
-  color: #0056b3; /* Active item color */
-}
