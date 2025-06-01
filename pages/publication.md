@@ -3,9 +3,9 @@ layout: default
 title: Publications
 ---
 
-# Selected Publications
+## Selected Publications
 
-## Journal
+### Peer-Reviewed Conference/Journal
 1.  Ceh-Varela, E., & **Imhmed, E.** (2024, May). Investigating Freshmen Students’ Coding Standards Challenges Using NLP Techniques. In International Conference on Information, Communication and Computing Technology (pp. 3-15). Cham: Springer Nature Switzerland.
 2.  **Imhmed, E.**, Ceh-Varela, E., Abu-Gellban, H., & Kilgore, S. (2024). Fostering Code Quality Practices Among Undergraduate Novice Programmers. Journal of Computing Sciences in Colleges, 39(7), 21-32.
 3.  **Imhmed, E.**, Ceh-Varela, E., & Kilgore, S. (2023, December). Identifying code quality issues for undergraduate students using static analysis and NLP. In 2023 International Conference on Computational Science and Computational Intelligence (CSCI) (pp. 1527-1533). IEEE.
