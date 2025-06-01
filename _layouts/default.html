@@ -21,10 +21,10 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <h3>
-          <a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
-        </h3>
+        <h3><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h3>
+
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        
         <!-- <p>{{ site.description | newline_to_br }}</p> -->
 
         {% if site.github.is_project_page %}
