@@ -33,16 +33,16 @@ Tel 575-562-2090 | Fax 575-562-2555
 
 ---
 
-> **Publication:** Essa Imhmed, Edgar Eduardo Ceh Varela, Ludwig Scherer, Ivan Sanjaya, George Candal. **CodeInspector: Automated LLM-Supported CS1 Level Code Assessment.**
+> **Publication:** Essa Imhmed, Edgar Eduardo Ceh Varela, Ludwig Scherer, Ivan Sanjaya and George Candal. **CodeInspector: Automated LLM-Supported CS1 Level Code Assessment.**
 >
-> Status: Accepted for Presentation at 2025 IEEE Frontiers in Education (FIE) Conference.
+> Status: Accepted for Presentation at the 2025 IEEE Frontiers in Education (FIE) Conference.
 > Nashville, Tennessee, USA.
 
 ---
 
-> **Publication:** Essa Imhmed, Edgar Eduardo Ceh Varela, Mustafa Elfituri. **Using Scrum to Improve Student Teamwork in a Project-Based Hybrid Learning Setting.**
+> **Publication:** Essa Imhmed, Edgar Eduardo Ceh Varela and Mustafa Elfituri. **Using Scrum to Improve Student Teamwork in a Project-Based Hybrid Learning Setting.**
 >
-> Status: Accepted for Presentation at 2025 IEEE Frontiers in Education (FIE) Conference.
+> Status: Accepted for Presentation at the 2025 IEEE Frontiers in Education (FIE) Conference.
 > Nashville, Tennessee, USA.
 
 ### May 2024
@@ -50,10 +50,30 @@ Tel 575-562-2090 | Fax 575-562-2555
 >
 > Status: Awarded by the ENMU FRID Grant Program. Funding period: July 2025 – May 2026.
 
+### March 2024
+> **Publication:** Essa Imhmed, Edgar Ceh-Varela, Hashim Abu-Gell and Scott Kilgore. **Fostering Code Quality Practices Among Undergraduate Novice Programmers.**
+>
+> Status: Accepted for Presentation at the 2024 ACM Consortium for Computing
+Sciences in Colleges - South Central Conference.
+> Nacogdoches, TX, USA.
+
+### October 2023
+> **Publication:** Essa Imhmed, Edgar Ceh-Varela and Scott Kilgore. **Identifying Code Quality Issues for Undergraduate Students Using Static Analysis and NLP.**
+>
+> Status: Accepted for Presentation at the 2023 International Conference on Computational Science & Computational Intelligence.
+> Las Vegas, NV, USA.
+
 ### May 2023
 > **Grant Proposel:** Conveying the Importance of Coding Quality Through Effective Teaching and Automated Assessment of Coding Standards. Principal Investigators: Essa Imhmed.
 >
 > Status: Awarded by the ENMU FRID Grant Program. Funding period: July 2025 – May 2026.
+
+---
+
+> **Publication:** Essa Imhmed, Edgar Ceh-Varela, Jonathan Cook and Caleb Parten. **Evaluation of the Performance Impact of SPM Allocation on a Novel Scratchpad Memory.**
+>
+> Status: Accepted for Presentation at the 2023 IEEE International Computer Software and Applications Conference (COMPSAC).
+> Torino, Italy.
 
 <!-- > This is a blockquote following a header.
 >
