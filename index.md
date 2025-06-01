@@ -10,10 +10,15 @@ I am a tenure-track Assistant Professor of Computer Science at Eastern New Mexic
 ## Recent News
 
 ### May 2025
-> Enhancing Student Learning through Automated Feedback in Coding Assignments Essa Imhmed, John Doe, Jane Smith.
+> Essa Imhmed, Edgar Eduardo Ceh Varela, Ludwig Scherer, Ivan Sanjaya, George Candal. **CodeInspector: Automated LLM-Supported CS1 Level Code Assessment**.
 >
 > Status: Accepted for Presentation at 2025 IEEE Frontiers in Education (FIE) Conference.
-> Atlanta, GA, USA
+> Nashville, Tennessee, USA
+
+> Essa Imhmed, Edgar Eduardo Ceh Varela, Ludwig Scherer, Ivan Sanjaya, George Candal. **CodeInspector: Automated LLM-Supported CS1 Level Code Assessment**.
+>
+> Status: Accepted for Presentation at 2025 IEEE Frontiers in Education (FIE) Conference.
+> Nashville, Tennessee, USA
 
 <!-- > This is a blockquote following a header.
 >
