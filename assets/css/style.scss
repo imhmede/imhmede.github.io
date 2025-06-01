@@ -1,81 +1,37 @@
----
----
-
+/* Import Minimal theme for base styling */
 @import "jekyll-theme-minimal";
 
-/* Menu container */
-ul.menu {
+/* Vertical Menu */
+.menu {
   list-style: none;
+  margin: 1rem 0;
   padding: 0;
-  margin: 0;
-  width: 200px; /* adjust width as needed */
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  font-size: 1rem;
-}
-
-/* Menu items */
-ul.menu li {
-  margin-bottom: 1rem;
-}
-
-/* Menu links */
-ul.menu li a {
   display: flex;
-  align-items: center;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.75rem;
+  font-family: inherit;
+}
+
+.menu a {
   text-decoration: none;
-  color: #222; /* text color */
-  padding: 0.5rem 0;
-  transition: color 0.3s ease;
+  font-size: 1.5rem; /* H2 size */
+  color: #333;
+  font-weight: normal;
+  padding: 0.25rem 0.5rem;
+  transition: color 0.3s, font-weight 0.3s;
 }
 
-ul.menu li a:hover,
-ul.menu li a:focus {
-  color: #0056b3; /* hover/focus text color */
+.menu a:hover {
+  color: #0056b3;
 }
 
-/* Icon container */
-ul.menu li a .icon {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  margin-right: 0.75rem;
-  width: 24px;
-  height: 24px;
-  flex-shrink: 0;
-  overflow: visible;
+.menu a.active {
+  font-weight: bold;
+  color: #0056b3;
 }
 
-/* SVG icon styling */
-ul.menu li a .icon svg {
-  width: 24px;
-  height: 24px;
-  overflow: visible;
-  display: block;
-  stroke-width: 2;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  fill: none; /* default no fill */
-  stroke: currentColor; /* icon inherits text color */
-}
-
-/* Individual icon colors — override via classes */
-ul.menu li.home a {
-  color: #1a73e8; /* Blue */
-}
-
-ul.menu li.publications a {
-  color: #ea4335; /* Red */
-}
-
-ul.menu li.projects a {
-  color: #fbbc05; /* Yellow */
-}
-
-ul.menu li.teaching a {
-  color: #34a853; /* Green */
-}
-
-
+/* Footer Icon Menu */
 ul.icon-menu {
   list-style: none;
   padding: 0;
@@ -102,42 +58,4 @@ ul.icon-menu a.scholar {
 
 ul.icon-menu a.researchgate {
   color: #00CCBB;
-}
-
-/* Reset basic menu styles */
-.menu {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  flex-direction: column; /* Vertical layout */
-  align-items: flex-start; /* Align items to the left */
-  gap: 0.75rem; /* Space between items */
-  font-family: inherit; /* Inherit site font */
-}
-
-/* Menu links */
-.menu a {
-  text-decoration: none;
-  font-size: 1.5rem; /* Approximate H2 size */
-  color: #333; /* Default color */
-  font-weight: normal;
-  padding: 0.25rem 0.5rem;
-  transition: color 0.3s, font-weight 0.3s;
-}
-
-/* Hover effect */
-.menu a:hover {
-  color: #0056b3;
-}
-
-/* Active page highlight */
-.menu a.active {
-  font-weight: bold;
-  color: #0056b3;
-}
-
-/* Optional: Add spacing or a subtle border */
-.menu li {
-  padding: 0; /* No extra padding needed */
 }
