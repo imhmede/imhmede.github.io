@@ -15,6 +15,14 @@ Mathematical Sciences Dept
 Tel 575-562-2090 | Fax 575-562-2555
 ```
 
+```ruby
+ENMU Station 18
+Mathematical Sciences Dept
+1500 S Ave K, Portales, NM 88130
+Tel 575-562-2090 | Fax 575-562-2555
+end
+```
+
 
 <!-- | Contact Info                        | Mailing address    |
 |:------------------------------------|:-------------------|
