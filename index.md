@@ -10,12 +10,12 @@ I am a tenure-track Assistant Professor of Computer Science at Eastern New Mexic
 ## Recent News
 
 ### May 2025
-> Essa Imhmed, Edgar Eduardo Ceh Varela, Ludwig Scherer, Ivan Sanjaya, George Candal. **CodeInspector: Automated LLM-Supported CS1 Level Code Assessment**.
+> **Publication:** Essa Imhmed, Edgar Eduardo Ceh Varela, Ludwig Scherer, Ivan Sanjaya, George Candal. CodeInspector: Automated LLM-Supported CS1 Level Code Assessment.
 >
 > Status: Accepted for Presentation at 2025 IEEE Frontiers in Education (FIE) Conference.
 > Nashville, Tennessee, USA
-
-> Essa Imhmed, Edgar Eduardo Ceh Varela, Ludwig Scherer, Ivan Sanjaya, George Candal. **CodeInspector: Automated LLM-Supported CS1 Level Code Assessment**.
+---
+> **Publication:** Essa Imhmed, Edgar Eduardo Ceh Varela, Mustafa Elfituri. Using Scrum to Improve Student Teamwork in a Project-Based Hybrid Learning Setting.
 >
 > Status: Accepted for Presentation at 2025 IEEE Frontiers in Education (FIE) Conference.
 > Nashville, Tennessee, USA
