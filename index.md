@@ -26,7 +26,7 @@ Tel 575-562-2090 | Fax 575-562-2555
 
 ---
 
-## Recent News
+## 🗓️ News Timeline
 
 ### May 2025
 <!-- > **Grant Proposel:** Expanding Research Awareness in Artificial Intelligence for Mathematical Sciences Undergraduate Students at ENMU. Co-Principal Investigators: Essa Imhmed.
