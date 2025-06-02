@@ -62,13 +62,13 @@ Tel 575-562-2090 | Fax 575-562-2555
 > **Publication:** Essa Imhmed, Edgar Ceh-Varela, Hashim Abu-Gell and Scott Kilgore. **Fostering Code Quality Practices Among Undergraduate Novice Programmers.**
 >
 > Status: Accepted for Presentation at the 2024 ACM Consortium for Computing
-Sciences in Colleges - South Central Conference.
+Sciences in Colleges (CCSC) - South Central Conference.
 > Nacogdoches, TX, USA.
 
 ### October 2023
 > **Publication:** Essa Imhmed, Edgar Ceh-Varela and Scott Kilgore. **Identifying Code Quality Issues for Undergraduate Students Using Static Analysis and NLP.**
 >
-> Status: Accepted for Presentation at the 2023 International Conference on Computational Science & Computational Intelligence.
+> Status: Accepted for Presentation at the 2023 International Conference on Computational Science & Computational Intelligence (CSCI).
 > Las Vegas, NV, USA.
 
 ### May 2023
@@ -86,7 +86,7 @@ Sciences in Colleges - South Central Conference.
 ### August 2022
 > **Publication:** Essa Imhmed, Jonathan Cook and Abdel-Hameed Badawy. **Evaluation of a Novel Scratchpad Memory Through Compiler Supported Simulation.**
 >
-> Status: Accepted for Presentation at the 2022 IEEE High Performance Extreme Computing Conference.
+> Status: Accepted for Presentation at the 2022 IEEE High Performance Extreme Computing Conference (HPEC).
 > Waltham, MA, USA.
 
 <!-- > This is a blockquote following a header.
