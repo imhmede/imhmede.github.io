@@ -7,7 +7,7 @@ I’m a tenure-track Assistant Professor of Computer Science at Eastern New Mexi
 📫 **Contact | Mailing address**
 ```js
 ENMU Station 18
-Mathematical Sciences Dept
+Mathematical Sciences Dept.
 1500 S Ave K, Portales, NM 88130
 ---
 email: essa dot imhmed at enmu dot edu
