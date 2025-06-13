@@ -42,7 +42,7 @@ Tel 575-562-2090 | Fax 575-562-2555
 
 > **Publication:** Edgar Eduardo Ceh Varela, Essa Imhmed, Caleb Parten, Ludwig Scherer. **Enhancing Code Assessment and Feedback Generation with GenAI Agents.**
 >
-> Status:  A book chapter accepted for inclusion in the Springer Book titled **Innovative Educational Assessment with Generative AI: Opportunities, Challenges, and Practical Case Studies.**.
+> Status:  A chapter accepted for inclusion in the Springer Book titled **Innovative Educational Assessment with Generative AI: Opportunities, Challenges, and Practical Case Studies.**
 > Springer Nature.
 
 ### May 2025
