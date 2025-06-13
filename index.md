@@ -35,7 +35,7 @@ Tel 575-562-2090 | Fax 575-562-2555
 
 > **Publication:** Essa Imhmed, Ivan Sanjaya, George Candal, Brian Pasko, Ludwig Scherer. **BugTor: A Feedback-Driven Static Analysis Tailored for Novice Java Programmers.**
 >
-> Status:  Accepted for Presentation at the 21st International Conference on Frontiers in Education: Computer Science & Computer Engineering, and for proceeding at Springer Nature.
+> Status:  Accepted for Presentation at the 21st International Conference on Frontiers in Education: Computer Science & Computer Engineering, and for proceedings with Springer Nature.
 > Las Vegas, Nevada, USA.
 
 ---
