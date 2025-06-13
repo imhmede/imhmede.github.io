@@ -31,12 +31,26 @@ Tel 575-562-2090 | Fax 575-562-2555
 
 ### 🗓️ News Timeline
 
+### June 2025
+
+> **Publication:** Essa Imhmed, Ivan Sanjaya, George Candal, Brian Pasko, Ludwig Scherer. **BugTor: A Feedback-Driven Static Analysis Tailored for Novice Java Programmers.**
+>
+> Status:  Accepted for Presentation at the 21st International Conference on Frontiers in Education: Computer Science & Computer Engineering, and for proceeding at Springer Nature.
+> Las Vegas, Nevada, USA.
+
+---
+
+> **Publication:** Edgar Eduardo Ceh Varela, Essa Imhmed, Caleb Parten, Ludwig Scherer. **Enhancing Code Assessment and Feedback Generation with GenAI Agents.**
+>
+> Status:  A book chapter accepted for inclusion in the Springer Book titled **Innovative Educational Assessment with Generative AI: Opportunities, Challenges, and Practical Case Studies.**.
+> Springer Nature.
+
 ### May 2025
-<!-- > **Grant Proposel:** Expanding Research Awareness in Artificial Intelligence for Mathematical Sciences Undergraduate Students at ENMU. Co-Principal Investigators: Essa Imhmed.
+> **Grant Proposel:** Expanding Research Awareness in Artificial Intelligence for Mathematical Sciences Undergraduate Students at ENMU. Co-Principal Investigators: Essa Imhmed.
 >
 > Status: Awarded by the National Science Foundation EPSCoR Program. Funding period: June 2025 – May 2026.
 
---- -->
+---
 
 > **Grant Proposel:** Investigating NLP-Based Clustering Techniques for Formative Feedback on Code Errors. Principal Investigators: Essa Imhmed and Edgar Eduardo Ceh Varela.
 >
