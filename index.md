@@ -9,7 +9,7 @@ I'm an assistant professor of Computer Science at Eastern New Mexico University,
 
 📫 **Expertise**
 ```js
-Computer Science Education, Software Quality Assurance, Memory System, Performance Evaluation and Optimization
+Computer Science Education, Agile Methods in Education, Software Quality Assurance, Memory System, Performance Evaluation and Optimization
 ---
 email: essa dot imhmed at enmu dot edu
 Tel 575-562-2090 | Fax 575-562-2555
