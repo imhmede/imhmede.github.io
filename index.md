@@ -9,7 +9,9 @@ I'm an assistant professor of Computer Science at Eastern New Mexico University,
 
 📫 **Expertise**
 ```js
-Computer Science Education, Agile Methods in Education, Software Quality Assurance, Memory System, Performance Evaluation and Optimization
+Computer Science Education, Agile Methods in Education,
+Software Quality Assurance, Memory System, 
+Performance Evaluation and Optimization
 ```
 
 📫 **Contact | Mailing address**
