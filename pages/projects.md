@@ -9,9 +9,9 @@ title: Projects
 
 ### Enhancing Student Learning and Grading Efficiency through Automated Code Assessment
 
-<img src="/assets/img/codinspct.png" alt="Example image" width="650" height="400">
+<!-- <img src="/assets/img/codinspct.png" alt="Example image" width="650" height="400"> -->
 
-<!-- ![Alt text](/assets/img/codinspct.png "LMStore Architecture.") -->
+![Alt text](/assets/img/codinspct.png "LMStore Architecture.")
 
 Timely, formative feedback is essential in academia, helping students reinforce learning and develop skills for subsequent assignments and advanced topics. However, manually assessing code submissions is time-consuming and often delays feedback. This project investigates state-of-the-art automated code assessment techniques and proposes CodeInspector—a CI-based system that leverages industry-standard software tools to enable students to submit their code frequently for immediate feedback on quality and correctness while supporting iterative learning and improvement.
 
