@@ -7,6 +7,14 @@ I'm an assistant professor of Computer Science at Eastern New Mexico University,
 
 <!-- I’m a tenure-track Assistant Professor of Computer Science at Eastern New Mexico University, with M.S. and Ph.D. degrees from New Mexico State University. My research focuses on Scratchpad memory design and Agile methods in education. I lead the Software Engineering and Performance Optimization (SEPO) Lab, where we explore innovative data management techniques for scratchpad memories and develop educational methods, tools, and strategies to promote team engagement and encourage best coding practices in computer science education. -->
 
+📫 **Expertise**
+```js
+Computer Science Education, Software Quality Assurance, Memory System, Performance Evaluation and Optimization
+---
+email: essa dot imhmed at enmu dot edu
+Tel 575-562-2090 | Fax 575-562-2555
+```
+
 📫 **Contact | Mailing address**
 ```js
 ENMU Station 18
