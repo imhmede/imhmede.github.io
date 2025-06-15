@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Biography
+### Biography
 I’m an assistant professor of Computer Science at Eastern New Mexico University, with M.S. and Ph.D. degrees from New Mexico State University. My research focuses on scratchpad memory design and Computer Sceince Educations. I lead the Software Engineering and Performance Optimization (SEPO) Lab, where we explore innovative data management techniques for scratchpad memories and develops tools that support student learning and methods that promote team engagement and encourage best coding practices in computer science education.
 
 
