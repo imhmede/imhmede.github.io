@@ -7,7 +7,7 @@ title: Projects
 
 ---
 
-### Enhancing Student Learning and Grading Efficiency through Automated Code Assessment
+### CodeInspector for Automating Code Assessment
 
 <!-- <img src="/assets/img/codinspct.png" alt="Example image" width="650" height="400"> -->
 
