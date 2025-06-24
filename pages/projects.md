@@ -19,15 +19,17 @@ Timely, formative feedback is essential in academia, helping students reinforce 
 
 - **Ludwig Scherer** (2025 - current) – Undergraduate Research Assistant on the CodeInspector project.
 
+---
+
 ### AI-Driven Static Analysis and Feedback Generation
-![Alt text](/assets/img/LMStoreArchit.pdf "LMStore architecture.")
-<!-- <p><a href="/assets/img/LMStoreArchit.pdf" target="_blank">Figure 1: LMStore Architecture (PDF)</a></p> -->
 
 A common challenge among novice programmers is interpreting runtime error stack traces and manually detecting logic and style errors in their Java code, often leading to inefficient debugging and poor coding practices. This study aims to design an AI-driven static analysis and feedback-generation approach that leverages natural language processing (NLP) and machine learning clustering techniques to statically identify code errors.
 
 ### Students
-- **Ivan Sanjaya** (2025 - current) – Undergraduate Research Assistant on the BugTor project.
-- **George Candal** (2025 - current) – Undergraduate Research Assistant on the BugTor project.
+- **Ivan Sanjaya** (2025 - current) – Undergraduate Research Assistant on the project.
+- **George Candal** (2025 - current) – Undergraduate Research Assistant on the project.
+
+---
 
 ### Local Memory Store for Embedded Systems (Completed; interested in more)
 ![Alt text](/assets/img/LMStoreArchit.pdf "LMStore architecture.")
