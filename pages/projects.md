@@ -14,7 +14,7 @@ title: Projects
 
 ![Alt text](/assets/img/codinspct.pdf "CodeInspector architectural design.")
 
-Timely, formative feedback is essential in academia, helping students reinforce learning and develop the skills needed for subsequent assignments and advanced topics. However, manually assessing code submissions is time-consuming and often delays feedback. This project investigates state-of-the-art automated code assessment techniques and proposes CodeInspector—a CI-driven automated solution that leverages industry-standard tools, enabling students to submit their code for assessment and receive immediate feedback on quality and correctness while supporting iterative learning and continuous improvement.
+Timely, formative feedback is essential in academia, helping students reinforce learning and develop the skills needed for subsequent assignments and advanced topics. However, manually assessing code submissions is time-consuming and often results in delayed feedback. This project investigates state-of-the-art automated code assessment techniques and proposes CodeInspector—a CI-driven, semi-automated solution that leverages industry-standard tools to assess student code submissions and generate immediate feedback on quality and correctness, while supporting iterative learning and continuous improvement.
 
 **Status:** Funded by ENMU FRID (2023-2025, $8471).
 
