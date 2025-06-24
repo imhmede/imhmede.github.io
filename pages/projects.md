@@ -6,7 +6,6 @@ title: Projects
 ## Projects
 
 ---
----
 
 ### From Submission to Feedback: A CI-Driven Automated Solution for Code Assessment
 
