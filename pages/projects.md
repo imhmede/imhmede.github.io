@@ -19,7 +19,7 @@ Timely, formative feedback is essential in academia, helping students reinforce 
 
 - **Ludwig Scherer** (2025 - current) – Undergraduate Research Assistant on the CodeInspector project.
 
-### Local Memory Store for Embedded Systems (Looking for students)
+### Local Memory Store for Embedded Systems (Completed; interested in more)
 ![Alt text](/assets/img/LMStoreArchit.pdf "LMStore Architecture.")
 <!-- <p><a href="/assets/img/LMStoreArchit.pdf" target="_blank">Figure 1: LMStore Architecture (PDF)</a></p> -->
 
@@ -29,5 +29,5 @@ Local Memory Store (LMStore) is a novel scratchpad memory (SPM) design, featurin
 - Imhmed, E., Ceh-Varela, E., Cook, J., & Parten, C. (2023, June). Evaluation of the performance impact of SPM allocation on a novel scratchpad memory. In 2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC) (pp. 972-973). IEEE.
 - Imhmed, E., Cook, J., & Badawy, A. H. (2022, September). Evaluation of a novel scratchpad memory through compiler supported simulation. In 2022 IEEE High Performance Extreme Computing Conference (HPEC) (pp. 1-7). IEEE.
 
-### Students (Past)
-- **Caleb Parten** (2023) – Undergraduate Research Assistant on the LMStore project.
+### Students
+- **Caleb Parten** (Spring 2023) – Undergraduate Research Assistant on the LMStore project.
