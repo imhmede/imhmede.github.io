@@ -19,6 +19,7 @@ Timely, formative feedback is essential in academia, helping students reinforce 
 ### Students
 
 - **Ludwig Scherer** (2025 - current) – Undergraduate Research Assistant on the CodeInspector project.
+- **Scott Kilgore** (2023 - 2024) – Undergraduate Research Assistant on the CodeInspector project.
 
 ---
 
