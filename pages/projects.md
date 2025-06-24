@@ -20,7 +20,7 @@ Timely, formative feedback is essential in academia, helping students reinforce 
 - **Ludwig Scherer** (2025 - current) – Undergraduate Research Assistant on the CodeInspector project.
 
 ### Local Memory Store for Embedded Systems (Completed; interested in more)
-![Alt text](/assets/img/LMStoreArchit.pdf "LMStore Architecture.")
+![Alt text](/assets/img/LMStoreArchit.pdf "LMStore architecture.")
 <!-- <p><a href="/assets/img/LMStoreArchit.pdf" target="_blank">Figure 1: LMStore Architecture (PDF)</a></p> -->
 
 Local Memory Store (LMStore) is a novel scratchpad memory (SPM) design, featuring some hardware management of the SPM along with explicit access and interaction by the program. Rather than presenting the program with a flat, directly accessed address space, LMStore uses indirect references in the form of 2-tuples and 3-tuples to access data stored in its memory, allowing LMStore to manage its memory more effectively for better utilization. This project explores data management schemes specifically designed to maximize LMStore performance, with a focus on reducing power consumption and minimizing memory access latency in embedded programs.
