@@ -55,15 +55,20 @@ Tel 575-562-2090 | Fax 575-562-2555
 > Springer Nature.
 
 ### May 2025
-> **Grant Proposel:** Expanding Research Awareness in Artificial Intelligence for Mathematical Sciences Undergraduate Students at ENMU. Co-Principal Investigators: Essa Imhmed.
+> **Grant Proposel:** Expanding Research Awareness in Artificial Intelligence for Mathematical Sciences Undergraduate Students at ENMU.
 >
-> Status: Awarded by the National Science Foundation EPSCoR Program. Funding period: June 2025 – May 2026.
+> Role: Co-Principal Investigators
+> 
+> Funding Source: National Science Foundation EPSCoR Program, for the period June 2025 – May 2026.
 
 ---
 
 > **Grant Proposel:** Investigating NLP-Based Clustering Techniques for Formative Feedback on Code Errors. Principal Investigators: Essa Imhmed and Edgar Eduardo Ceh Varela.
 >
-> Status: Awarded by the ENMU FRID Grant Program. Funding period: July 2025 – June 2026.
+> Role: Principal Investigators
+> 
+> Funding Source: the ENMU FRID Grant Program, for the period July 2025 – June 2026.
+
 
 ---
 
