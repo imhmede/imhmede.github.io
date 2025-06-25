@@ -65,8 +65,7 @@ Tel 575-562-2090 | Fax 575-562-2555
 
 > **Grant Proposel:** Investigating NLP-Based Clustering Techniques for Formative Feedback on Code Errors. Principal Investigators: Essa Imhmed and Edgar Eduardo Ceh Varela.
 >
-> Role: Principal Investigators
-> 
+> Role: Principal Investigators.<br>
 > Funding Source: the ENMU FRID Grant Program, for the period July 2025 – June 2026.
 
 
