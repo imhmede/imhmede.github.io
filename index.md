@@ -57,8 +57,7 @@ Tel 575-562-2090 | Fax 575-562-2555
 ### May 2025
 > **Grant Proposel:** Expanding Research Awareness in Artificial Intelligence for Mathematical Sciences Undergraduate Students at ENMU.
 >
-> Role: Co-Principal Investigators
-> 
+> Role: Co-Principal Investigators.<br>
 > Funding Source: National Science Foundation EPSCoR Program, for the period June 2025 – May 2026.
 
 ---
@@ -86,7 +85,8 @@ Tel 575-562-2090 | Fax 575-562-2555
 ### May 2024
 > **Grant Proposel:** Enhancing Student Learning and Grading Efficiency through Automated Code Assessment. Principal Investigators: Essa Imhmed.
 >
-> Status: Awarded by the ENMU FRID Grant Program. Funding period: July 2024 – June 2025.
+> Role: Principal Investigators.<br>
+> Funding Source: the ENMU FRID Grant Program, for the period July 2024 – June 2025.
 
 ### March 2024
 > **Publication:** Essa Imhmed, Edgar Ceh-Varela, Hashim Abu-Gell and Scott Kilgore. **Fostering Code Quality Practices Among Undergraduate Novice Programmers.**
@@ -104,7 +104,8 @@ Sciences in Colleges (CCSC) - South Central Conference.
 ### May 2023
 > **Grant Proposel:** Conveying the Importance of Coding Quality Through Effective Teaching and Automated Assessment of Coding Standards. Principal Investigators: Essa Imhmed.
 >
-> Status: Awarded by the ENMU FRID Grant Program. Funding period: July 2023 – June 2024.
+> Role: Principal Investigators.<br>
+> Funding Source: the ENMU FRID Grant Program, for the period July 2023 – June 2024.
 
 ---
 
