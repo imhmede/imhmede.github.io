@@ -2,7 +2,7 @@
 layout: default
 ---
 ### About me
-I am an Assistant Professor of Computer Science in the Department of Mathematical Sciences at Eastern New Mexico University, with M.S. and Ph.D. degrees from New Mexico State University. My current research interests include computer science education, focusing on Agile-based pedagogical approaches to enhance student collaboration and the development of tools that support programming instruction and promote software engineering practices. I lead the Software Engineering and Performance Optimization (SEPO) Lab, where we design educational tools and explore methods to improve teamwork engagement and coding practices.
+I am an Assistant Professor of Computer Science in the Department of Mathematical Sciences at Eastern New Mexico University. My current research interests include computer science education, focusing on Agile-based pedagogical approaches to enhance student collaboration and the development of tools that support programming instruction and promote software engineering practices. I lead the Software Engineering and Performance Optimization (SEPO) Lab, where we design educational tools and explore methods to improve teamwork engagement and coding practices.
 
 <!-- My research focuses on memory design for embedded systems and computer science education. I lead the Software Engineering and Performance Optimization (SEPO) Lab, where we design innovative data management techniques for scratchpad memories, develop tools to support student learning, and explore methods to promote team engagement and encourage best coding practices in computer science education. -->
 
