@@ -62,7 +62,7 @@ Tel 575-562-2090 | Fax 575-562-2555
 
 ---
 
-> **Grant Proposel:** Investigating NLP-Based Clustering Techniques for Formative Feedback on Code Errors. Principal Investigators: Essa Imhmed and Edgar Eduardo Ceh Varela.
+> **Grant Proposel:** Investigating NLP-Based Clustering Techniques for Formative Feedback on Code Errors.
 >
 > Role: Principal Investigators.<br>
 > Funding Source: the ENMU FRID Grant Program, for the period July 2025 – June 2026.
@@ -83,7 +83,7 @@ Tel 575-562-2090 | Fax 575-562-2555
 > Nashville, Tennessee, USA.
 
 ### May 2024
-> **Grant Proposel:** Enhancing Student Learning and Grading Efficiency through Automated Code Assessment. Principal Investigators: Essa Imhmed.
+> **Grant Proposel:** Enhancing Student Learning and Grading Efficiency through Automated Code Assessment.
 >
 > Role: Principal Investigators.<br>
 > Funding Source: the ENMU FRID Grant Program, for the period July 2024 – June 2025.
@@ -102,7 +102,7 @@ Sciences in Colleges (CCSC) - South Central Conference.
 > Las Vegas, NV, USA.
 
 ### May 2023
-> **Grant Proposel:** Conveying the Importance of Coding Quality Through Effective Teaching and Automated Assessment of Coding Standards. Principal Investigators: Essa Imhmed.
+> **Grant Proposel:** Conveying the Importance of Coding Quality Through Effective Teaching and Automated Assessment of Coding Standards.
 >
 > Role: Principal Investigators.<br>
 > Funding Source: the ENMU FRID Grant Program, for the period July 2023 – June 2024.
