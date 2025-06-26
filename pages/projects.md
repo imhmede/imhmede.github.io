@@ -8,7 +8,8 @@ title: Projects
 ---
 
 <!-- ### From Submission to Feedback: A CI-Driven Automated Solution for Code Assessment -->
-### From Submission to Feedback: A CI-Driven Automated Assessment for Student Code Submissions
+<!-- ### From Submission to Feedback: A CI-Driven Automated Assessment for Student Code Submissions -->
+### From Submission to Feedback: A CI-Driven Automated Code Assessment
 
 <!-- <img src="/assets/img/codinspct.png" alt="Example image" width="650" height="400"> -->
 
