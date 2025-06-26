@@ -57,8 +57,7 @@ Tel 575-562-2090 | Fax 575-562-2555
 ### May 2025
 > **Grant Proposel:** Expanding Research Awareness in Artificial Intelligence for Mathematical Sciences Undergraduate Students at ENMU.
 >
-> Role: Co-Principal Investigator.<br>
-> Funding Source: National Science Foundation EPSCoR Program, for the period June 2025 – May 2026.
+> Status: Funded by the National Science Foundation EPSCoR Progra (2025-2026); Role: Co-Principal Investigator.
 
 ---
 
