@@ -17,7 +17,7 @@ title: Projects
 
 Timely, formative feedback is essential in academia, helping students reinforce learning and develop the skills needed for subsequent assignments and advanced topics. However, manually assessing code submissions is time-consuming and often results in delayed feedback. This project investigates state-of-the-art automated code assessment techniques and proposes CodeInspector—a CI-driven, semi-automated solution that leverages industry-standard tools to assess student code submissions and generate immediate feedback on quality and correctness, while supporting iterative learning and continuous improvement.
 
-**Status:** Funded by ENMU FRID (2023-2025, $8471).
+**Status:** Funded by the ENMU FRID Grant Program (2023-2025); Amount: $8471; Role: Principal Investigator.
 
 ### Students
 
@@ -30,7 +30,7 @@ Timely, formative feedback is essential in academia, helping students reinforce 
 
 A common challenge among novice programmers is interpreting runtime error stack traces and manually detecting logic and style errors in their Java code, often leading to inefficient debugging and poor coding practices. This study aims to design an AI-driven static analysis and feedback-generation approach that leverages natural language processing (NLP) and machine learning clustering techniques to statically identify code errors.
 
-**Status:** Funded by ENMU FRID (2025-2026, $2046).
+**Status:** Funded by the ENMU FRID Grant Program (2025–2026); Amount: $2,046; Role: Principal Investigator.
 
 ### Students
 - **George Candal** (2025 - current) – Undergraduate Research Assistant on the project.
