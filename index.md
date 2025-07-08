@@ -1,16 +1,17 @@
 ---
 layout: default
 ---
-### About me
-I am an Assistant Professor of Computer Science in the Department of Mathematical Sciences at Eastern New Mexico University. I completed my Ph.D. in 2022 and my M.S. in 2020 at New Mexico State University. I lead the Software Engineering and Performance Optimization (SEPO) Lab, where we explore methods---particularly Agile-based pedagogical approaches---to enhance student teamwork collaboration and develop educational tools that support programming instruction and promote effective software engineering practices.
+<!-- ### About me -->
+
+I am an Assistant Professor of Computer Science in the Department of Mathematical Sciences at Eastern New Mexico University. I completed my Ph.D. in 2022 and my M.S. in 2020 at New Mexico State University. I lead the Software Engineering and Performance Optimization (SEPO) Lab, where we explore methods---particularly Agile-based pedagogical approachesto enhance student teamwork collaboration and develop educational tools that support programming instruction and promote effective software engineering practices.
 <!-- I am an assistant professor of Computer Science in the Department of Mathematical Sciences at Eastern New Mexico University. My current research interests include computer science education, focusing on Agile-based pedagogical approaches to enhance student collaboration and the development of tools that support programming instruction and promote software engineering practices. I lead the Software Engineering and Performance Optimization (SEPO) Lab, where we design educational tools and explore methods to improve teamwork engagement and coding practices. -->
 
 <!-- My research focuses on memory design for embedded systems and computer science education. I lead the Software Engineering and Performance Optimization (SEPO) Lab, where we design innovative data management techniques for scratchpad memories, develop tools to support student learning, and explore methods to promote team engagement and encourage best coding practices in computer science education. -->
 
-
 <!-- I’m a tenure-track Assistant Professor of Computer Science at Eastern New Mexico University, with M.S. and Ph.D. degrees from New Mexico State University. My research focuses on Scratchpad memory design and Agile methods in education. I lead the Software Engineering and Performance Optimization (SEPO) Lab, where we explore innovative data management techniques for scratchpad memories and develop educational methods, tools, and strategies to promote team engagement and encourage best coding practices in computer science education. -->
 
 **Expertise**
+
 ```js
 Computer Science Education, Agile Methods in Education,
 Software Quality Assurance, Memory System, 
@@ -18,6 +19,7 @@ Performance Evaluation and Optimization
 ```
 
 📫 **Contact | Mailing address**
+
 ```js
 ENMU Station 18
 Mathematical Sciences Dept.
@@ -56,6 +58,7 @@ Tel 575-562-2090 | Fax 575-562-2555
 > Springer Nature.
 
 ### May 2025
+>
 > **Grant Proposel:** Expanding Research Awareness in Artificial Intelligence for Mathematical Sciences Undergraduate Students at ENMU.
 >
 > Status: Funded by the National Science Foundation EPSCoR Progra (2025-2026); Role: Co-Principal Investigator.
@@ -65,7 +68,6 @@ Tel 575-562-2090 | Fax 575-562-2555
 > **Grant Proposel:** Investigating NLP-Based Clustering Techniques for Formative Feedback on Code Errors.
 >
 > Status: Funded by the ENMU FRID Grant Program (2025-2026); Role: Principal Investigator.
-
 
 ---
 
@@ -82,11 +84,13 @@ Tel 575-562-2090 | Fax 575-562-2555
 > Nashville, Tennessee, USA.
 
 ### May 2024
+>
 > **Grant Proposel:** Enhancing Student Learning and Grading Efficiency through Automated Code Assessment.
 >
 > Status: Funded by the ENMU FRID Grant Program (2024-2025); Role: Principal Investigator.
 
 ### March 2024
+>
 > **Publication:** Essa Imhmed, Edgar Ceh-Varela, Hashim Abu-Gell and Scott Kilgore. **Fostering Code Quality Practices Among Undergraduate Novice Programmers.**
 >
 > Status: Accepted for Presentation at the 2024 ACM Consortium for Computing
@@ -94,12 +98,14 @@ Sciences in Colleges (CCSC) - South Central Conference.
 > Nacogdoches, TX, USA.
 
 ### October 2023
+>
 > **Publication:** Essa Imhmed, Edgar Ceh-Varela and Scott Kilgore. **Identifying Code Quality Issues for Undergraduate Students Using Static Analysis and NLP.**
 >
 > Status: Accepted for Presentation at the 2023 International Conference on Computational Science & Computational Intelligence (CSCI).
 > Las Vegas, NV, USA.
 
 ### May 2023
+>
 > **Grant Proposel:** Conveying the Importance of Coding Quality Through Effective Teaching and Automated Assessment of Coding Standards.
 >
 > Status: Funded by the ENMU FRID Grant Program (2023-2024); Role: Principal Investigator.
@@ -112,6 +118,7 @@ Sciences in Colleges (CCSC) - South Central Conference.
 > Torino, Italy.
 
 ### August 2022
+>
 > **Publication:** Essa Imhmed, Jonathan Cook and Abdel-Hameed Badawy. **Evaluation of a Novel Scratchpad Memory Through Compiler Supported Simulation.**
 >
 > Status: Accepted for Presentation at the 2022 IEEE High Performance Extreme Computing Conference (HPEC).
@@ -218,7 +225,6 @@ end
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
 
 ### Definition lists can be used with HTML syntax.
 
