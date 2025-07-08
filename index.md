@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-## Bio
+### Dr. Essa Imhmed
+<br>
 I am an Assistant Professor of Computer Science in the Department of Mathematical Sciences at Eastern New Mexico University. I completed my Ph.D. in 2022 and my M.S. in 2020 at New Mexico State University. I lead the Software Engineering and Performance Optimization (SEPO) Lab, where we explore methods---particularly Agile-based pedagogical approachesto enhance student teamwork collaboration and develop educational tools that support programming instruction and promote effective software engineering practices.
 <!-- I am an assistant professor of Computer Science in the Department of Mathematical Sciences at Eastern New Mexico University. My current research interests include computer science education, focusing on Agile-based pedagogical approaches to enhance student collaboration and the development of tools that support programming instruction and promote software engineering practices. I lead the Software Engineering and Performance Optimization (SEPO) Lab, where we design educational tools and explore methods to improve teamwork engagement and coding practices. -->
 
