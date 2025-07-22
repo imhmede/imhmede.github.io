@@ -19,6 +19,9 @@ Timely, formative feedback is essential in academia, helping students reinforce 
 
 **Status:** Funded by the ENMU FRID Grant Program (2023-2025); Amount: $8471; Role: Principal Investigator.
 
+#### Related Publications
+- Essa Imhmed, Edgar Ceh-Varela, Ludwig Scherer, George Candal, and Ivan Sanjaya. WIP: CodeInspector: automated LLM-Supported CS1- Level code assessment. In 2025 IEEE Frontiers in Education Conference (FIE) (FIE 2025), page 4.98, Nashville, USA, November 2025.
+
 ### Students
 
 - **Ludwig Scherer** (2025 - current) – Undergraduate Research Assistant on the CodeInspector project.
