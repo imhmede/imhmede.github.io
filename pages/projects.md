@@ -4,9 +4,9 @@ title: Research
 ---
 
 ## Research
-
 ---
-My current research is in the area of software engineering education, investigating pedagogical methods and industrial tools that bring software engineering practices into the classroom and bridge the gap between academia and the software industry. I am also interested in memory architecture design and the development of innovative data management techniques to improve application performance.
+
+My current research focuses on software engineering education, exploring effective pedagogical and industry methods that integrate real-world software engineering practices and experiences into the classroom. The goal is to enrich the learning experience and help bridge the gap between academia and the software industry. I am also interested in memory architecture design and the development of innovative data management techniques that enhance application performance.
 
 ### Projects
 
