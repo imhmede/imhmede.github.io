@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-### About Me
-I am an Assistant Professor of Computer Science in the Department of Mathematical Sciences at Eastern New Mexico University, holding Ph.D. and M.S. degrees from New Mexico State University. I lead the Software Engineering and Performance Optimization (SEPO) Lab, where we focus on exploring Agile-based pedagogical approaches and creating educational tools and methods that improve student collaboration in teamwork, support programming instruction, and promote effective software engineering practices.
+### About
+
+I am an Assistant Professor of Computer Science in the Department of Mathematical Sciences at Eastern New Mexico University. I earned my Ph.D. in 2022 and M.S. in 2020 from New Mexico State University. I lead the Software Engineering and Performance Optimization (SEPO) Lab, where we explore Agile-based pedagogical approaches and develop tools that support programming instruction and promote effective software engineering practices in the classroom.
 <!-- I am an Assistant Professor of Computer Science in the Department of Mathematical Sciences at Eastern New Mexico University, with Ph.D. and M.S. degrees from New Mexico State University. I lead the Software Engineering and Performance Optimization (SEPO) Lab, where we explore methods—particularly Agile-based pedagogical approaches—to enhance student teamwork collaboration and develop educational tools that support programming instruction and promote effective software engineering practices. -->
 <!-- I am an assistant professor of Computer Science in the Department of Mathematical Sciences at Eastern New Mexico University. My current research interests include computer science education, focusing on Agile-based pedagogical approaches to enhance student collaboration and the development of tools that support programming instruction and promote software engineering practices. I lead the Software Engineering and Performance Optimization (SEPO) Lab, where we design educational tools and explore methods to improve teamwork engagement and coding practices. -->
 

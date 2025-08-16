@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Projects
+title: Research
 ---
+
+My current research is in the area of software engineering education, investigating pedagogical methods and industrial tools that bring software engineering practices into the classroom and bridge the gap between academia and the software industry. I am also interested in memory architecture design and the development of innovative data management techniques to improve application performance.
 
 ## Projects
 
