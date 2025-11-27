@@ -15,7 +15,7 @@ I am an Assistant Professor of Computer Science in the Department of Mathematica
 **Expertise**
 ```js
 Computer Science Education, Agile Methods in Education,
-NLP and LLM in Software Engineering, Memory System
+NLP and GenAI in Software Engineering, Memory System
 ```
 
 📫 **Contact | Mailing address**
