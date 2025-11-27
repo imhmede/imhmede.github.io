@@ -15,8 +15,7 @@ I am an Assistant Professor of Computer Science in the Department of Mathematica
 **Expertise**
 ```js
 Computer Science Education, Agile Methods in Education,
-Software Quality Assurance, Memory System, 
-Performance Evaluation and Optimization
+NLP and LLM in Software Engineering, Memory System
 ```
 
 📫 **Contact | Mailing address**

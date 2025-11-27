@@ -26,6 +26,7 @@ Timely, formative feedback is essential in academia, helping students reinforce 
 
 #### Related Publications
 - Essa Imhmed, Edgar Ceh-Varela, Ludwig Scherer, George Candal, and Ivan Sanjaya. WIP: CodeInspector: automated LLM-Supported CS1- Level code assessment. In 2025 IEEE Frontiers in Education Conference (FIE) (FIE 2025), page 4.98, Nashville, USA, November 2025.
+- Ceh-Varela, E., Imhmed, E., Parten, C., & Scherer, L. (2025). Enhancing Code Assessment and Feedback Generation with GenAI Agents. In Innovative Educational Assessment with Generative AI: Opportunities, Challenges, and Practical Case Studies (pp. 275-297). Cham: Springer Nature Switzerland.
 
 ### Students
 
