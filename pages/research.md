@@ -3,7 +3,7 @@ layout: default
 title: Scholarship
 ---
 
-## Projects
+## Research
 
 ---
 My research focuses on software engineering and computer science education, exploring effective pedagogical approaches that integrate real-world, industry-aligned practices into the classroom. In particular, I investigate how automated and AI-driven tools, such as CI-based code assessment, static analysis, NLP, and large language models, can support formative feedback, improve code quality, and enhance learning outcomes for novice programmers. I am also interested in memory architecture design and the development of innovative data management techniques to improve application performance.
