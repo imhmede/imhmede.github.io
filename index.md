@@ -14,8 +14,9 @@ I am an Assistant Professor of Computer Science at Eastern New Mexico University
 ### Research Interests
 
 ```js
-Computer Science Education, Agile Methods,
-Natural Language Processing and Generative AI in Software Engineering, Memory System
+Computer Science and Software Engineering Education,
+Agile-Based Learning, NLP & Generative AI,
+Memory Architecture
 ```
 
 📫 **Contact | Mailing address**
