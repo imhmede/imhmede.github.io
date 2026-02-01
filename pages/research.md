@@ -12,7 +12,7 @@ You can visit the [SEPO Lab’s page](pages/sepolab.md) for more info about my c
 
 ---
 
-You can see me on [Google Scholar](https://scholar.google.com/citations?user=X4N5A_4AAAAJ&hl=en&oi=ao) or go to my list of [IEEE publications](https://ieeexplore.ieee.org/author/37089478158) and [ACM publications](https://dl.acm.org/profile/99660525273).
+You can see my full list of publications on [Google Scholar](https://scholar.google.com/citations?user=X4N5A_4AAAAJ&hl=en&oi=ao) or go to my list of [IEEE publications](https://ieeexplore.ieee.org/author/37089478158) and [ACM publications](https://dl.acm.org/profile/99660525273).
 
 ## Selected Publications
 
