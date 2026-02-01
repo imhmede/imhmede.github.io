@@ -66,11 +66,9 @@ Local Memory Store (LMStore) is a novel scratchpad memory (SPM) design, featurin
 
 - **Caleb Parten** (Spring 2023) – Undergraduate Research Assistant on the LMStore project.
 
-## Selected Publications
-
 ---
 
-### Peer-Reviewed Conference/Journal
+## Selected Publications
 
 1. **E. Imhmed**, E. Ceh-Varela and M. Elfituri, "Using Scrum to Improve Student Teamwork in a Project-Based Hybrid Learning Setting," 2025 IEEE Frontiers in Education Conference (FIE), Nashville, TN, USA, 2025, pp. 1-8, doi: 10.1109/FIE63693.2025.11328266.
 2. **E. Imhmed**, E. Ceh-Varela, L. Scherer, G. Candal and I. Sanjaya, "WIP: CodeInspector: Automated LLM-Supported CS1-Level Code Assessment," 2025 IEEE Frontiers in Education Conference (FIE), Nashville, TN, USA, 2025, pp. 1-5, doi: 10.1109/FIE63693.2025.11328429.
