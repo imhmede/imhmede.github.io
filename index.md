@@ -3,7 +3,7 @@ layout: default
 ---
 ### About
 
-I am an Assistant Professor of Computer Science in the Department of Mathematical Sciences at Eastern New Mexico University. I earned my Ph.D. in 2022 and M.S. in 2020 from New Mexico State University. I lead the Software Engineering and Performance Optimization (SEPO) Lab, where we explore Agile-based pedagogical approaches and develop tools that support programming instruction and promote effective software engineering practices in the classroom.
+I am an Assistant Professor of Computer Science at Eastern New Mexico University. I earned my Ph.D. in 2022 and M.S. in 2020 from New Mexico State University. I lead the Software Engineering and Performance Optimization (SEPO) Lab, where we explore Agile-based pedagogical approaches and develop tools that support programming instruction and promote effective software engineering practices in the classroom.
 <!-- I am an Assistant Professor of Computer Science in the Department of Mathematical Sciences at Eastern New Mexico University, with Ph.D. and M.S. degrees from New Mexico State University. I lead the Software Engineering and Performance Optimization (SEPO) Lab, where we explore methods—particularly Agile-based pedagogical approaches—to enhance student teamwork collaboration and develop educational tools that support programming instruction and promote effective software engineering practices. -->
 <!-- I am an assistant professor of Computer Science in the Department of Mathematical Sciences at Eastern New Mexico University. My current research interests include computer science education, focusing on Agile-based pedagogical approaches to enhance student collaboration and the development of tools that support programming instruction and promote software engineering practices. I lead the Software Engineering and Performance Optimization (SEPO) Lab, where we design educational tools and explore methods to improve teamwork engagement and coding practices. -->
 
@@ -14,8 +14,8 @@ I am an Assistant Professor of Computer Science in the Department of Mathematica
 ### Research Interests
 
 ```js
-Computer Science Education, Agile Methods in Education,
-NLP and GenAI in Software Engineering, Memory System
+Computer Science Education, Agile Methods,
+Natural Language Processing and Generative AI in Software Engineering, Memory System
 ```
 
 📫 **Contact | Mailing address**
