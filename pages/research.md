@@ -4,13 +4,15 @@ title: Scholarship
 ---
 
 ---
-My research focuses on software engineering and computer science education, exploring effective pedagogical approaches that integrate real-world, industry-aligned practices into the classroom. In particular, I investigate how automated and AI-driven tools, such as CI-based code assessment, static analysis, NLP, and large language models, can support formative feedback, improve code quality, and enhance learning outcomes for novice programmers. I am also interested in memory architecture design and the development of innovative data management techniques to improve application performance.
+<!-- My research focuses on software engineering and computer science education, exploring effective pedagogical approaches that integrate real-world, industry-aligned practices into the classroom. In particular, I investigate how automated and AI-driven tools, such as CI-based code assessment, static analysis, NLP, and large language models, can support formative feedback, improve code quality, and enhance learning outcomes for novice programmers. I am also interested in memory architecture design and the development of innovative data management techniques to improve application performance. -->
 <!-- My current research focuses on software engineering education, exploring effective pedagogical and industry methods that integrate real-world software engineering practices and experiences into the classroom. The goal is to enrich the learning experience and help bridge the gap between academia and the software industry. I am also interested in memory architecture design and the development of innovative data management techniques that enhance application performance. -->
 
 ## Projects
 
 ---
+My research focuses on software engineering and computer science education, exploring effective pedagogical approaches that integrate real-world, industry-aligned practices into the classroom. In particular, I investigate how automated and AI-driven tools, such as CI-based code assessment, static analysis, NLP, and large language models, can support formative feedback, improve code quality, and enhance learning outcomes for novice programmers. I am also interested in memory architecture design and the development of innovative data management techniques to improve application performance.
 
+You can visit the SEPO Lab’s page for more info about my current research projects.
 <!-- ### From Submission to Feedback: A CI-Driven Automated Solution for Code Assessment -->
 <!-- ### From Submission to Feedback: A CI-Driven Automated Assessment for Student Code Submissions -->
 ### From Submission to Feedback: A LLM-Powered CI-Driven Automated Code Assessment
