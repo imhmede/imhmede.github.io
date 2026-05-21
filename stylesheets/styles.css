@@ -309,18 +309,53 @@ ul, ol {
 
 .no-border td {
   border: none;
-} */
+}
+<style>
+:root {
+    --bg: #ffffff;
+    --text: #111111;
+    --link: #1f2a44;
+    --card: #f8f8f8;
+    --heading: #111111;
+}
 
-/* .section-title {
-            font-size: 18px;
-            font-weight: bold;
-            text-decoration: underline;
-            margin-top: 25px;
-        }
+/* DARK MODE */
+body.dark {
+    --bg: #0f172a;
+    --text: #e5e7eb;
+    --link: #93c5fd;
+    --card: #1e293b;
+    --heading: #f8fafc;
+}
 
-        .subsection-title {
-            font-size: 16px;
-            font-weight: bold;
-            text-decoration: underline;
-            margin-top: 20px;
-        } */
+/* GLOBAL */
+body {
+    background: var(--bg);
+    color: var(--text);
+}
+
+/* FIX HEADINGS (THIS IS THE IMPORTANT PART) */
+h1, h2, h3, h4, h5, h6 {
+    color: var(--heading) !important;
+}
+
+/* LINKS */
+a {
+    color: var(--link);
+}
+
+/* CONTENT */
+p, li {
+    color: var(--text);
+}
+
+/* OPTIONAL: your menu */
+ul.menu a {
+    color: var(--text);
+}
+
+/* OPTIONAL footer */
+footer {
+    color: var(--text);
+}
+</style>

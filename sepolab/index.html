@@ -62,50 +62,54 @@
         </h3>
 
         <!-- Description -->
-        <p>Assistant Professor, Computer Science</p>
-
+        <!-- <p>Assistant Professor, Computer Science</p> -->
+         <button id="theme-toggle" style="
+            margin-top:10px;
+            padding:6px 12px;
+            border-radius:8px;
+            border:1px solid #ccc;
+            background:#fff;
+            cursor:pointer;
+            font-size:14px;
+        ">
+        🌙 Dark Mode
+        </button>
         <!-- ================= NAVIGATION ================= -->
         <ul class="menu">
 
             <li>
-                <a href="/"
-                        class="">
-                        Home
+                <a href="/">
+                    <i class="fa-solid fa-house"></i> Home
                 </a>
             </li>
 
             <li>
-                <a href="/teaching/"
-                    class="">
-                    Teaching
+                <a href="/teaching/">
+                    <i class="fa-solid fa-chalkboard-user"></i> Teaching
                 </a>
             </li>
 
             <li>
-                <a href="/research/"
-                   class="">
-                   Research
+                <a href="/research/">
+                    <i class="fa-solid fa-flask"></i> Research
                 </a>
             </li>
 
             <li>
-                <a href="/sepolab/"
-                     class="active">
-                   SEPO Lab
+                <a href="/sepolab/">
+                    <i class="fa-solid fa-microchip"></i> SEPO Lab
                 </a>
             </li>
 
             <li>
-                <a href="/publication/"
-                   class="">
-                   Publications
+                <a href="/publication/">
+                    <i class="fa-solid fa-book"></i> Publications
                 </a>
             </li>
 
             <li>
-                <a href="/team/"
-                   class="">
-                   Team
+                <a href="/news/">
+                    <i class="fa-solid fa-bullhorn"></i> News
                 </a>
             </li>
 
@@ -120,7 +124,7 @@
         <p>The Software Engineering and Performance Optimization Lab (SEPO Lab) at Eastern New Mexico University is dedicated to advancing the state of the art in computer science education and performance optimization. Our research focuses on developing AI-powered tools and pedagogical methods that integrate real-world, industry-aligned practices into the classroom to enhance students' software development practices and learning outcomes. We also investigate memory architecture design and innovative data management techniques to improve system performance.</p>
         <hr />
         <div style="margin:15px 0;">
-            <a href="/sepolab/gallery/"
+            <a href="/sepolab/team/"
             style="
                     display:inline-block;
                     padding:12px 18px;
@@ -130,16 +134,15 @@
                     text-decoration:none;
                     font-weight:bold;
                 ">
-                📸 Student Research Gallery
+                👥 The Lab Team Members
             </a>
 
             <div style="font-size:13px; color:gray; margin-top:5px;">
-                Photos from conferences, student projects, and lab activities
+                SEPO Lab Team and Research Gallery
             </div>
         </div>
         <hr />
         <h2 id="current-projects">Current Projects</h2>
-        <h3 id="from-submission-to-feedback-leveraging-llms-and-ci-tooling-for-automated-code-assessment">From Submission to Feedback: Leveraging LLMs and CI Tooling for Automated Code Assessment</h3>
 
         <p>
         <!-- <img src="../img/codinspct.pdf"
@@ -148,7 +151,7 @@
         </p> -->
         <!-- ================= PROJECT 1 ================= -->
         <h3 id="from-submission-to-feedback-leveraging-llms-and-ci-tooling-for-automated-code-assessment">
-            From Submission to Feedback: Leveraging LLMs and CI Tooling for Automated Code Assessment
+            From Submission to Feedback: Leveraging LLMs and CI Tooling for Code Assessment and Feedback Generation
         </h3>
 
         <!-- ================= MAIN IMAGE ================= -->
@@ -242,15 +245,15 @@
         <strong>Role:</strong> Principal Investigator
         </p>
 
-        <h4 id="students">Students</h4>
+        <!-- <h4 id="students">Students</h4>
         <ul>
             <li>Ludwig Scherer (2025–present) — Undergraduate Research Assistant</li>
             <li>Scott Kilgore (2023–2024) — Undergraduate Research Assistant</li>
-        </ul>
+        </ul> -->
 
         <hr />
 
-        <h3 id="ai-driven-static-analysis-and-feedback-generation">AI-Driven Static Analysis and Feedback Generation</h3>
+        <h3 id="ai-driven-static-analysis-and-feedback-generation">AI-Driven Code Analysis and Feedback Generation</h3>
 
         <p>Novice programmers often struggle with interpreting runtime errors and identifying logical or stylistic issues in their code. This project explores an AI-driven approach to static code analysis using NLP and machine learning techniques to automatically detect errors and generate meaningful feedback.</p>
 
@@ -258,11 +261,6 @@
         <strong>Amount:</strong> $2,046<br />
         <strong>Role:</strong> Principal Investigator</p>
 
-        <h4 id="students-1">Students</h4>
-        <ul>
-        <li>George Candal (2025–present) — Undergraduate Research Assistant</li>
-        <li>Ivan Sanjaya (2025–present) — Undergraduate Research Assistant</li>
-        </ul>
 
         <hr />
 
@@ -279,13 +277,6 @@
         <p>Instead of a flat address space, LMStore uses structured tuple-based references (2-tuples and 3-tuples) to manage memory more efficiently. This approach improves memory utilization, reduces latency, and lowers power consumption in embedded systems.</p>
 
         <p><strong>Status:</strong> Completed</p>
-
-        <h4 id="students-2">Students</h4>
-        <ul>
-        <li>Caleb Parten (Spring 2023) — Undergraduate Research Assistant</li>
-        </ul>
-
-        <hr />
 
     </section>
 
@@ -419,6 +410,35 @@ document.getElementById("lightbox").addEventListener("click", function(e) {
     if (e.target.id === "lightbox") closeLightbox();
 });
 
+</script>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+
+        const toggleBtn = document.getElementById("theme-toggle");
+
+        // Load saved theme
+        const savedTheme = localStorage.getItem("theme");
+
+        if (savedTheme === "dark") {
+            document.body.classList.add("dark");
+            toggleBtn.textContent = "☀️ Light Mode";
+        }
+
+        toggleBtn.addEventListener("click", function () {
+            document.body.classList.toggle("dark");
+
+            const isDark = document.body.classList.contains("dark");
+
+            if (isDark) {
+                toggleBtn.textContent = "☀️ Light Mode";
+                localStorage.setItem("theme", "dark");
+            } else {
+                toggleBtn.textContent = "🌙 Dark Mode";
+                localStorage.setItem("theme", "light");
+            }
+        });
+
+    });
 </script>
 </body>
 </html>
