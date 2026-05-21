@@ -143,23 +143,110 @@
         <h3 id="from-submission-to-feedback-leveraging-llms-and-ci-tooling-for-automated-code-assessment">From Submission to Feedback: Leveraging LLMs and CI Tooling for Automated Code Assessment</h3>
 
         <p>
-        <img src="../img/codinspct.pdf"
+        <!-- <img src="../img/codinspct.pdf"
             alt="CodeInspector Architecture"
             class="diagram-img" />
+        </p> -->
+        <!-- ================= PROJECT 1 ================= -->
+        <h3 id="from-submission-to-feedback-leveraging-llms-and-ci-tooling-for-automated-code-assessment">
+            From Submission to Feedback: Leveraging LLMs and CI Tooling for Automated Code Assessment
+        </h3>
+
+        <!-- ================= MAIN IMAGE ================= -->
+        <p>
+            <img src="../img/codinspct1.jpg"
+                onclick="openLightbox(0)"
+                style="
+                    cursor:pointer;
+                    width:100%;
+                    max-width:850px;
+                    height:auto;
+                    border-radius:10px;
+                    display:block;
+                    margin:auto;
+                ">
         </p>
 
-        <p>Timely, formative feedback is essential in programming education. However, manual grading of code submissions is time-consuming and often delays student learning feedback.</p>
+        <p>
+        Timely, formative feedback is essential in programming education. However, manual grading of code submissions is time-consuming and often delays student learning feedback.
+        </p>
 
-        <p>This project investigates modern automated code assessment techniques and proposes <strong>CodeInspector</strong>, a CI-driven, semi-automated system that integrates industry-standard tools and LLM-based feedback generation. The goal is to provide immediate, high-quality feedback on student submissions while supporting iterative learning and continuous improvement.</p>
+        <p>
+        This project investigates modern automated code assessment techniques and proposes <strong>CodeInspector</strong>, a CI-driven, semi-automated system that integrates industry-standard tools and LLM-based feedback generation. The goal is to provide immediate, high-quality feedback on student submissions while supporting iterative learning and continuous improvement.
+        </p>
 
-        <p><strong>Status:</strong> Funded by the ENMU FRID Grant Program (2023–2025)<br />
+        <!-- ================= VERSION GALLERY ================= -->
+        <h4>System Evolution</h4>
+
+        <div style="
+            display:grid;
+            grid-template-columns:1fr 1fr;
+            gap:20px;
+            margin-top:20px;
+            margin-bottom:20px;
+        ">
+
+            <!-- VERSION 2 -->
+            <div style="
+                border:1px solid #eee;
+                border-radius:10px;
+                overflow:hidden;
+                background:#fff;
+            ">
+
+                <img src="../img/codinspct2.jpg"
+                onclick="openLightbox(1)"
+                style="
+                    width:100%;
+                    height:220px;
+                    object-fit:contain;
+                    background:#f8f8f8;
+                    cursor:pointer;
+                ">
+
+                <div style="padding:12px;">
+                    <strong>CodeInspector v2</strong><br>
+                    <small>Enhanced UI and CI workflow integration</small>
+                </div>
+
+            </div>
+
+            <!-- VERSION 3 -->
+            <div style="
+                border:1px solid #eee;
+                border-radius:10px;
+                overflow:hidden;
+                background:#fff;
+            ">
+
+                <img src="../img/codinspct3.jpg"
+                onclick="openLightbox(2)"
+                style="
+                    width:100%;
+                    height:220px;
+                    object-fit:contain;
+                    background:#f8f8f8;
+                    cursor:pointer;
+                ">
+
+                <div style="padding:12px;">
+                    <strong>CodeInspector v3</strong><br>
+                    <small>LLM-assisted feedback and expanded analytics</small>
+                </div>
+
+            </div>
+
+        </div>
+        <p>
+        <strong>Status:</strong> Funded by the ENMU FRID Grant Program (2023–2025)<br />
         <strong>Amount:</strong> $8,471<br />
-        <strong>Role:</strong> Principal Investigator</p>
+        <strong>Role:</strong> Principal Investigator
+        </p>
 
         <h4 id="students">Students</h4>
         <ul>
-        <li>Ludwig Scherer (2025–present) — Undergraduate Research Assistant</li>
-        <li>Scott Kilgore (2023–2024) — Undergraduate Research Assistant</li>
+            <li>Ludwig Scherer (2025–present) — Undergraduate Research Assistant</li>
+            <li>Scott Kilgore (2023–2024) — Undergraduate Research Assistant</li>
         </ul>
 
         <hr />
@@ -183,9 +270,9 @@
         <h3 id="local-memory-store-for-embedded-systems">Local Memory Store for Embedded Systems</h3>
 
         <p>
-        <img src="../img/lmstore.pdf"
-            alt="LMStore Architecture"
-            class="diagram-img" />
+        <img src="../img/lmstore.jpg"
+            onclick="openLightbox(3)"
+            style="cursor:pointer; max-width:100%; height:auto;">
         </p></p>
 
         <p>Local Memory Store (LMStore) is a novel scratchpad memory design that combines hardware-supported management with explicit program-level control.</p>
@@ -254,5 +341,85 @@
 <!-- JS -->
 <script src="/javascripts/scale.fix.js"></script>
 
+<div id="lightbox" style="
+    display:none;
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.9);
+    z-index:9999;
+    justify-content:center;
+    align-items:center;
+">
+
+    <span onclick="closeLightbox()" style="
+        position:absolute;
+        top:20px;
+        right:30px;
+        color:white;
+        font-size:35px;
+        cursor:pointer;
+    ">&times;</span>
+
+    <img id="lightbox-img" style="
+        max-width:90%;
+        max-height:90%;
+        border-radius:8px;
+    ">
+
+    <div id="lightbox-caption" style="
+        position:absolute;
+        bottom:20px;
+        color:white;
+        font-size:18px;
+    "></div>
+
+</div>
+<script>
+
+const images = [
+    {
+        src: "../img/codinspct1.jpg",
+        caption: "CodeInspector v1"
+    },
+    {
+        src: "../img/codinspct2.jpg",
+        caption: "CodeInspector v2"
+    },
+    {
+        src: "../img/codinspct3.jpg",
+        caption: "CodeInspector v3"
+    },
+    {
+        src: "../img/lmstore.jpg",
+        caption: "LMStore Architecture"
+    }
+];
+
+let currentIndex = 0;
+
+function openLightbox(index) {
+    currentIndex = index;
+    document.getElementById("lightbox").style.display = "flex";
+    updateLightbox();
+}
+
+function closeLightbox() {
+    document.getElementById("lightbox").style.display = "none";
+}
+
+function updateLightbox() {
+    document.getElementById("lightbox-img").src = images[currentIndex].src;
+    document.getElementById("lightbox-caption").innerText = images[currentIndex].caption;
+}
+
+// close on background click
+document.getElementById("lightbox").addEventListener("click", function(e) {
+    if (e.target.id === "lightbox") closeLightbox();
+});
+
+</script>
 </body>
 </html>
