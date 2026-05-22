@@ -280,7 +280,7 @@ hr {
     width: 100%;
     border-collapse: collapse;
     table-layout: fixed;   /* IMPORTANT */
-}
+/* } */
 
 th, td {
     border-bottom: 1px solid #e5e5e5;
@@ -310,7 +310,7 @@ ul, ol {
 .no-border td {
   border: none;
 }
-<style>
+
 :root {
     --bg: #ffffff;
     --text: #111111;
@@ -358,4 +358,46 @@ ul.menu a {
 footer {
     color: var(--text);
 }
-</style>
+
+/* ================= FEATURE BUTTON ================= */
+
+.feature-button{
+    display:inline-block;
+    padding:12px 18px;
+    border-radius:8px;
+    text-decoration:none;
+    font-weight:bold;
+
+    background:#1f2a44;
+    color:white;
+
+    transition:all 0.25s ease;
+}
+
+.feature-button:hover{
+    background:#2d3d63;
+    transform:translateY(-1px);
+}
+
+/* Caption */
+.feature-caption{
+    font-size:13px;
+    color:#666;
+    margin-top:5px;
+}
+
+/* ================= DARK MODE ================= */
+
+body.dark .feature-button{
+    background:#4a6fa5;
+    color:white;
+    box-shadow:0 0 10px rgba(255,255,255,0.08);
+}
+
+body.dark .feature-button:hover{
+    background:#5d84bd;
+}
+
+body.dark .feature-caption{
+    color:#cfcfcf;
+}
