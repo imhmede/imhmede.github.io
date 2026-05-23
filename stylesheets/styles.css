@@ -1,6 +1,6 @@
-/* =========================================================
+/*
    BASE THEME (Jekyll Minimal Style - cleaned)
-   ========================================================= */
+*/
 
 body {
   background-color: #fff;
@@ -43,10 +43,6 @@ img {
   margin: 0 auto;
 }
 
-/* =========================================================
-   SIDEBAR LAYOUT
-   ========================================================= */
-
 header {
   width: 270px;
   float: left;
@@ -67,10 +63,6 @@ footer {
   bottom: 50px;
 }
 
-/* =========================================================
-   PROFILE IMAGE
-   ========================================================= */
-
 .profile-img {
   width: 200px;
   height: 200px;
@@ -78,10 +70,6 @@ footer {
   object-fit: cover;
   margin-bottom: 10px;
 }
-
-/* =========================================================
-   HEADER TEXT SPACING
-   ========================================================= */
 
 header h3 {
   margin-bottom: 5px;
@@ -92,15 +80,14 @@ header p {
   color: #666;
 }
 
-/* =========================================================
-   BULLETED VERTICAL MENU (FINAL FIX)
-   ========================================================= */
-
 .menu {
   list-style-type: disc;      /* ✔ bullets enabled */
   padding-left: 20px;        /* ✔ indentation */
   margin-top: 15px;
   margin-left: 0;
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
 /* Ensure proper list behavior */
@@ -127,9 +114,6 @@ header p {
   color: #0056b3;
 }
 
-/* =========================================================
-   TABLES
-   ========================================================= */
 
 table {
   width: 100%;
@@ -145,10 +129,6 @@ th, td {
 th {
   color: #444;
 }
-
-/* =========================================================
-   BLOCK ELEMENTS
-   ========================================================= */
 
 blockquote {
   border-left: 1px solid #e5e5e5;
@@ -175,10 +155,6 @@ hr {
   height: 1px;
   margin: 0 0 20px;
 }
-
-/* =========================================================
-   RESPONSIVE DESIGN
-   ========================================================= */
 
 @media print, screen and (max-width: 960px) {
   div.wrapper {
@@ -217,9 +193,6 @@ hr {
   }
 }
 
-/* =========================
-   MENU DEFAULT + ACTIVE STYLE
-   ========================= */
 
 /* Default menu color (light blue) */
 .menu a {
@@ -259,28 +232,6 @@ hr {
   margin: 0 auto;
   padding: 1in;
 }
-
-/* .center { text-align: center; }
-.left { text-align: left; }
-.small-space { margin-top: 10px; }
-.space { margin-top: 20px; }
-.bigspace { margin-top: 30px; } */
-
-/* h1, h2, h3 {
-            margin: 0;
-            font-weight: normal;
-        } */
-
-/* .u {
-  text-decoration: underline;
-  font-weight: bold;
-} */
-
-/* table {
-    width: 100%;
-    border-collapse: collapse;
-    table-layout: fixed;   /* IMPORTANT */
-/* } */
 
 th, td {
     border-bottom: 1px solid #e5e5e5;
